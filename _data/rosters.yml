@@ -23,7 +23,6 @@
     posi: RB
     cost: 20
     year: 4
-    drop: true
   - name: Thomas Rawls
     posi: RB
     cost: 9
