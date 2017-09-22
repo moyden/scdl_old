@@ -1,0 +1,158 @@
+---
+layout: default
+---
+
+{% for team in site.data.rosters %}
+	{% if team.id == page.team %}
+		{% assign teamobject = team %}
+	{% endif %}
+{% endfor %}
+
+{% for player in teamobject.roster %}
+  {% unless player.drop %}
+    {% assign runactive = sumactive | plus: player.cost %}
+    {% assign sumactive = runactive %}
+
+    {% assign runyear = sumyear | plus: player.year %}
+    {% assign sumyear = runyear %}
+  {% endunless %}
+  {% if player.drop %}
+    {% assign rundrop = sumdrop | plus: player.cost %}
+    {% assign sumdrop = rundrop %}
+  {% endif %}
+{% endfor %}
+{% assign divdrop = sumdrop | divided_by: 2 %}
+{% assign moddrop = sumdrop | modulo: 2 %}
+{% assign sumhit = divdrop | plus: moddrop %}
+{% assign caphit = sumactive | plus: sumhit %}
+{% assign capspace = teamobject.cap | minus: caphit %}
+
+<script type="text/javascript">
+
+	$(document).ready(function(){
+		$("section.title").click(function(){
+			$( this ).toggleClass( "open" );
+		})
+    
+    $('tr.qb').last().after('<tr class="emptyrow"><td></td><td></td><td></td><td></td></tr>');
+    $('tr.rb').last().after('<tr class="emptyrow"><td></td><td></td><td></td><td></td></tr>');
+    $('tr.wr').last().after('<tr class="emptyrow"><td></td><td></td><td></td><td></td></tr>');
+	});
+  
+  
+	
+</script>
+
+<section class="title">
+	<h1>{{ teamobject.name }}
+	<svg id="down-arrow" version="1.1" id="Chevron_down" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+<path d="M4.516,7.548c0.436-0.446,1.043-0.481,1.576,0L10,11.295l3.908-3.747c0.533-0.481,1.141-0.446,1.574,0
+	c0.436,0.445,0.408,1.197,0,1.615c-0.406,0.418-4.695,4.502-4.695,4.502C10.57,13.888,10.285,14,10,14s-0.57-0.112-0.789-0.335
+	c0,0-4.287-4.084-4.695-4.502C4.107,8.745,4.08,7.993,4.516,7.548z"/>
+</svg>
+	</h1>
+	{% for team in site.data.rosters %}
+		{% unless team.id == page.team %}
+			<nav>
+				<ul>
+					<li><h1><a href="{{ site.baseurl }}/{{ team.id }}">{{ team.name }}</a></h1></li>
+				</ul>
+			</nav>
+		{% endunless %}
+	{% endfor %}
+</section>
+
+{% if teamobject.trophies %}
+	<section class="trophy-cabinet">
+		{% for trophy in teamobject.trophies %}
+			<h3>
+			<svg id="trophy" version="1.1" id="Trophy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+			 viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+		<g>
+			<path d="M11.18,14.356c0-1.451,1.1-2.254,2.894-3.442C16.268,9.458,19,7.649,19,3.354c0-0.387-0.317-0.699-0.709-0.699h-3.43
+				C14.377,1.759,12.932,0.8,10,0.8c-2.934,0-4.377,0.959-4.862,1.855H1.707C1.316,2.655,1,2.968,1,3.354
+				c0,4.295,2.73,6.104,4.926,7.559c1.794,1.188,2.894,1.991,2.894,3.442v1.311c-1.884,0.209-3.269,0.906-3.269,1.736
+				c0,0.994,1.992,1.799,4.449,1.799c2.457,0,4.449-0.805,4.449-1.799c0-0.83-1.385-1.527-3.269-1.736V14.356z M13.957,9.3
+				c0.566-1.199,1.016-2.826,1.088-5.246h2.51C17.315,6.755,15.693,8.118,13.957,9.3z M10,2.026c2.732-0.002,3.799,1.115,3.798,1.529
+				c0,0.418-1.066,1.533-3.798,1.535C7.268,5.089,6.201,3.974,6.201,3.556C6.2,3.142,7.268,2.024,10,2.026z M2.445,4.054h2.509
+				C5.027,6.474,5.475,8.101,6.043,9.3C4.307,8.118,2.684,6.755,2.445,4.054z"/>
+		</g>
+		</svg>
+			{{ trophy }}
+			</h3>
+		{% endfor %}
+	</section>
+{% endif %}
+
+<section class="capinfo">
+	<ul class="team-cap">
+		<li><span class="value">$ {{ teamobject.cap }}</span> <br /> Salary Cap</li>
+		<li><span class="value">$ {{ caphit }}</span> <br /> Cap Hit</li>
+		<li><span class="value">$ {{ capspace }}</span> <br /> Cap Space</li>
+	</ul>
+</section>
+
+<div class="tables">
+<section class="split" id="current">
+	<h2><a href="http://games.espn.com/ffl/clubhouse?leagueId=24903&teamId={{ page.espnID }}">Current Roster</a></h2>
+	<table class="roster">
+		<tr>
+			<th id="pos" class="pos">Pos</th>
+			<th id="player" class="player">Player</th>
+			<th id="dollar" class="dollar">$</th>
+			<th id="year" class="year">yr</th>
+		</tr>
+		{% for player in teamobject.roster %}
+      {% unless player.drop %}
+      <tr class="{{ player.posi | downcase }}">
+        <td class="pos"><span class="{{ player.posi | downcase }}">{{ player.posi }}</span></td>
+        <td class="player">{{ player.name }}</td>
+        <td class="dollar">{{ player.cost }}</td>
+        <td class="year">{{ player.year }}</td>
+      </tr>
+      {% endunless %}
+		{% endfor %}
+		<tr>
+			<td class="total"></td>
+			<td class="total" id="player-total">Total:</td>
+			<td class="total dollar">{{ sumactive }}</td>
+			<td class="total year">{{ sumyear }}</td>
+		</tr>
+	</table>
+</section>
+<section class="split" id="former">
+	<h2>Outstanding Contracts</h2>
+	<table class="roster">
+		<tr>
+			<th id="pos" class="pos">Pos</th>
+			<th id="player" class="player">Player</th>
+			<th id="dollar" class="dollar">$</th>
+			<th id="year" class="year">yr</th>
+		</tr>
+		{% for player in teamobject.roster %}
+      {% if player.drop %}
+      <tr>
+        <td class="pos"><span class="{{ player.posi | downcase }}">{{ player.posi }}</span></td>
+        <td class="player">{{ player.name }}</td>
+        <td class="dollar">{{ player.cost }}</td>
+        <td class="year">{{ player.year }}</td>
+      </tr>
+      {% endif %}
+		{% endfor %}
+		<tr>
+			<td class="total"></td>
+			<td class="total" id="player-total">Total:</td>
+			<td class="total dollar">{{ sumdrop }}</td>
+			<td class="total year"></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td id="player-total">Owed:</td>
+			<td class="total dollar">{{ sumhit }}</td>
+			<td></td>
+		</tr>
+	</table>
+	<p>N.B. Amount owed is calculated by halving the TOTAL value of outstanding contracts this value is then rounded up to the nearest dollar.</p>
+</section>
+</div>

@@ -1,0 +1,11 @@
+# Site settings
+title: Super Cool Dynasty League
+baseurl: "/dynasty"
+url: "http://moyden.com/dynasty"
+
+# Build settings
+markdown: kramdown
+
+# Dev settings
+host: 0.0.0.0
+destination: ../moyden.github.io/dynasty

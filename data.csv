@@ -1,0 +1,6 @@
+---
+---
+
+
+Team,Player,Position,Contract Value,Contract Length,Dropped{% for team in site.data.rosters %}{% for player in team.roster %}
+{{ team.name }},{{ player.name }},{{ player.posi }},{{ player.cost }},{{ player.year }},{% if player.drop %}true{% else %}false{% endif %}{% endfor %}{% endfor %}
