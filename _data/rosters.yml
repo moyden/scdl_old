@@ -277,6 +277,10 @@
     posi: RB
     cost: 1
     year: 2
+  - name: Chris Thompson
+    posi: RB
+    cost: 1
+    year: 1
   - name: Dez Bryant
     posi: WR
     cost: 49
@@ -491,6 +495,10 @@
     posi: RB
     cost: 1
     year: 1
+  - name: Chris Johnson
+    posi: RB
+    cost: 1
+    year: 1
   - name: Antonio Brown
     posi: WR
     cost: 49
@@ -534,6 +542,10 @@
     posi: WR
     cost: 1
     year: 2
+  - name: J.J. Nelson
+    posi: WR
+    cost: 1
+    year: 1
   - name: Jordan Reed
     posi: TE
     cost: 11
@@ -690,6 +702,7 @@
     posi: RB
     cost: 1
     year: 1
+    drop: true
   - name: Spencer Ware
     posi: RB
     cost: 1
@@ -740,6 +753,7 @@
     posi: TE
     cost: 1
     year: 1
+    drop: true
   - name: Eric Ebron
     posi: TE
     cost: 1
