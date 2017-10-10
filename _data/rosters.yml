@@ -15,6 +15,11 @@
     posi: QB
     cost: 3
     year: 4
+    drop: true
+  - name: Philip Rivers
+    posi: QB
+    cost: 1
+    year: 1
   - name: Jay Ajayi
     posi: RB
     cost: 25
@@ -111,6 +116,15 @@
     posi: WR
     cost: 1
     year: 1
+  - name: Mike Williams
+    posi: WR
+    cost: 1
+    year: 1
+    drop: true
+  - name: Will Fuller V
+    posi: WR
+    cost: 1
+    year: 1
   - name: Hunter Henry
     posi: TE
     cost: 4
@@ -180,6 +194,7 @@
     posi: RB
     cost: 1
     year: 1
+    drop: true
   - name: Julian Edelman
     posi: WR
     cost: 17
@@ -239,6 +254,10 @@
     cost: 1
     year: 1
     drop: true
+  - name: Tyler Kroft
+    posi: TE
+    cost: 1
+    year: 1
 
 - name: Dynasty Warriors III
   id: dynasty-warriors
@@ -278,6 +297,10 @@
     cost: 1
     year: 2
   - name: Chris Thompson
+    posi: RB
+    cost: 1
+    year: 1
+  - name: Latavius Murray
     posi: RB
     cost: 1
     year: 1
@@ -375,6 +398,7 @@
     posi: RB
     cost: 3
     year: 1
+    drop: true
   - name: Chris Carson
     posi: RB
     cost: 3
@@ -394,6 +418,10 @@
     cost: 1
     year: 1
   - name: Giovani Bernard
+    posi: RB
+    cost: 1
+    year: 1
+  - name: Wendell Smallwood
     posi: RB
     cost: 1
     year: 1
@@ -458,10 +486,15 @@
     posi: QB
     cost: 2
     year: 1
+    drop: true
   - name: Jameis Winston
     posi: QB
     cost: 1
     year: 2
+  - name: Alex Smith
+    posi: QB
+    cost: 1
+    year: 1
   - name: David Johnson
     posi: RB
     cost: 58
@@ -486,6 +519,11 @@
     posi: RB
     cost: 2
     year: 2
+    drop: true
+  - name: Alvin Kamara
+    posi: RB
+    cost: 2
+    year: 1
   - name: C.J. Prosise
     posi: RB
     cost: 1
@@ -496,6 +534,11 @@
     cost: 1
     year: 1
   - name: Chris Johnson
+    posi: RB
+    cost: 1
+    year: 1
+    drop: true
+  - name: Duke Johnson
     posi: RB
     cost: 1
     year: 1
@@ -669,6 +712,11 @@
     posi: QB
     cost: 1
     year: 1
+    drop: true
+  - name: Deshaun Watson
+    posi: QB
+    cost: 1
+    year: 1
   - name: Ezekiel Elliott
     posi: RB
     cost: 37
@@ -712,6 +760,7 @@
     posi: RB
     cost: 1
     year: 1
+    drop: true
   - name: Julio Jones
     posi: WR
     cost: 35
@@ -755,6 +804,10 @@
     year: 1
     drop: true
   - name: Eric Ebron
+    posi: TE
+    cost: 1
+    year: 1
+  - name: Charles Clay
     posi: TE
     cost: 1
     year: 1
