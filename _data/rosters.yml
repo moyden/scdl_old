@@ -41,6 +41,10 @@
     posi: RB
     cost: 8
     year: 1
+  - name: Aaron Jones
+    posi: RB
+    cost: 6
+    year: 1
   - name: Tevin Coleman
     posi: RB
     cost: 5
@@ -125,6 +129,7 @@
     posi: WR
     cost: 1
     year: 1
+    drop: true
   - name: Hunter Henry
     posi: TE
     cost: 4
@@ -320,6 +325,7 @@
     posi: WR
     cost: 2
     year: 1
+    drop: true
   - name: Kendall Wright
     posi: WR
     cost: 1
@@ -353,6 +359,10 @@
     posi: TE
     cost: 5
     year: 2
+  - name: Austin Seferian-Jenkins
+    posi: TE
+    cost: 1
+    year: 1
 
 - name: Jamaal About That Base
   id: jamaal-about-that-base
@@ -664,6 +674,7 @@
     posi: WR
     cost: 4
     year: 1
+    drop: true
   - name: Stefon Diggs
     posi: WR
     cost: 3
@@ -672,6 +683,10 @@
     posi: WR
     cost: 2
     year: 2
+  - name: Jermaine Kearse
+    posi: WR
+    cost: 2
+    year: 1
   - name: Willie Snead
     posi: WR
     cost: 1
