@@ -20,6 +20,7 @@
     posi: QB
     cost: 1
     year: 1
+    drop: true
   - name: Jay Ajayi
     posi: RB
     cost: 25
@@ -55,6 +56,10 @@
     year: 1
     drop: true
   - name: Jamaal Charles
+    posi: RB
+    cost: 3
+    year: 1
+  - name: Alfred Morris
     posi: RB
     cost: 3
     year: 1
@@ -306,6 +311,11 @@
     cost: 1
     year: 1
   - name: Latavius Murray
+    posi: RB
+    cost: 1
+    year: 1
+    drop: true
+  - name: Jerrick McKinnon
     posi: RB
     cost: 1
     year: 1
@@ -756,6 +766,7 @@
     posi: RB
     cost: 2
     year: 1
+    drop: true
   - name: Devontae Booker
     posi: RB
     cost: 1
@@ -822,7 +833,12 @@
     posi: TE
     cost: 1
     year: 1
+    drop: true
   - name: Charles Clay
+    posi: TE
+    cost: 1
+    year: 1
+  - name: Cameron Brate
     posi: TE
     cost: 1
     year: 1
