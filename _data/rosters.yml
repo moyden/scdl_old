@@ -423,6 +423,7 @@
     posi: RB
     cost: 3
     year: 1
+    drop: true
   - name: Alfred Blue
     posi: RB
     cost: 1
@@ -442,6 +443,10 @@
     cost: 1
     year: 1
   - name: Wendell Smallwood
+    posi: RB
+    cost: 1
+    year: 1
+  - name: Orleans Darkwa
     posi: RB
     cost: 1
     year: 1
