@@ -16,6 +16,10 @@
     cost: 3
     year: 4
     drop: true
+  - name: Carson Wentz
+    posi: QB
+    cost: 3
+    year: 1
   - name: Philip Rivers
     posi: QB
     cost: 1
@@ -59,10 +63,12 @@
     posi: RB
     cost: 3
     year: 1
+    drop: true
   - name: Alfred Morris
     posi: RB
     cost: 3
     year: 1
+    drop: true
   - name: Giovani Bernard
     posi: RB
     cost: 2
@@ -135,6 +141,10 @@
     cost: 1
     year: 1
     drop: true
+  - name: Kenny Stills
+    posi: WR
+    cost: 1
+    year: 1
   - name: Hunter Henry
     posi: TE
     cost: 4
@@ -143,6 +153,7 @@
     posi: TE
     cost: 4
     year: 1
+    drop: true
   - name: O.J. Howard
     posi: TE
     cost: 1
@@ -242,10 +253,15 @@
     posi: WR
     cost: 2
     year: 1
+  - name: Will Fuller
+    posi: WR
+    cost: 2
+    year: 1
   - name: Markus Wheaton
     posi: WR
     cost: 1
     year: 2
+    drop: true
   - name: Greg Olsen
     posi: TE
     cost: 5
