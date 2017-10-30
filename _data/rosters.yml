@@ -79,6 +79,10 @@
     cost: 2
     year: 2
     drop: true
+  - name: Keenan Allen
+    posi: WR
+    cost: 13
+    year: 1
   - name: Davante Adams
     posi: WR
     cost: 12
@@ -91,10 +95,6 @@
     posi: WR
     cost: 10
     year: 1
-  - name: Jordy Nelson
-    posi: WR
-    cost: 9
-    year: 2
   - name: Randall Cobb
     posi: WR
     cost: 9
@@ -173,6 +173,14 @@
     posi: QB
     cost: 12
     year: 3
+  - name: Philip Rivers
+    posi: QB
+    cost: 1
+    year: 1
+  - name: Jared Goff
+    posi: QB
+    cost: 1
+    year: 1
   - name: "Le'Veon Bell"
     posi: RB
     cost: 59
@@ -211,6 +219,7 @@
     posi: RB
     cost: 1
     year: 2
+    drop: true
   - name: Cameron Artis-Payne
     posi: RB
     cost: 1
@@ -295,6 +304,11 @@
     cost: 36
     year: 3
   - name: Carson Palmer
+    posi: QB
+    cost: 1
+    year: 1
+    drop: true
+  - name: Ben Roethlisberger
     posi: QB
     cost: 1
     year: 1
@@ -693,10 +707,10 @@
     posi: WR
     cost: 23
     year: 2
-  - name: Keenan Allen
+  - name: Jordy Nelson
     posi: WR
-    cost: 13
-    year: 1
+    cost: 9
+    year: 2
   - name: DeVante Parker
     posi: WR
     cost: 4
