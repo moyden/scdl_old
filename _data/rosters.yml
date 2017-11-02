@@ -54,6 +54,10 @@
     posi: RB
     cost: 5
     year: 2
+  - name: Chris Ivory
+    posi: RB
+    cost: 4
+    year: 1
   - name: Matt Jones
     posi: RB
     cost: 4
@@ -141,10 +145,6 @@
     cost: 1
     year: 1
     drop: true
-  - name: Kenny Stills
-    posi: WR
-    cost: 1
-    year: 1
   - name: Hunter Henry
     posi: TE
     cost: 4
@@ -312,6 +312,10 @@
     posi: QB
     cost: 1
     year: 1
+  - name: Tyrod Taylor
+    posi: QB
+    cost: 1
+    year: 1
   - name: Jordan Howard
     posi: RB
     cost: 23
@@ -336,6 +340,7 @@
     posi: RB
     cost: 1
     year: 2
+    drop: true
   - name: Chris Thompson
     posi: RB
     cost: 1
@@ -392,6 +397,11 @@
     cost: 1
     year: 1
   - name: Tyrell Williams
+    posi: WR
+    cost: 1
+    year: 1
+    drop: true
+  - name: JuJu Smith-Schuster
     posi: WR
     cost: 1
     year: 1
@@ -509,6 +519,7 @@
     posi: WR
     cost: 2
     year: 1
+    drop: true
   - name: Tyler Boyd
     posi: WR
     cost: 1
@@ -522,6 +533,10 @@
     cost: 41
     year: 3
   - name: Kyle Rudolph
+    posi: TE
+    cost: 1
+    year: 1
+  - name: Jack Doyle
     posi: TE
     cost: 1
     year: 1
@@ -699,10 +714,6 @@
     posi: RB
     cost: 5
     year: 4
-  - name: Chris Ivory
-    posi: RB
-    cost: 4
-    year: 1
   - name: DeAndre Hopkins
     posi: WR
     cost: 23
@@ -724,6 +735,10 @@
     posi: WR
     cost: 3
     year: 3
+  - name: Paul Richardson
+    posi: WR
+    cost: 3
+    year: 1
   - name: John Brown
     posi: WR
     cost: 2
@@ -737,6 +752,10 @@
     cost: 1
     year: 3
   - name: Ted Ginn Jr.
+    posi: WR
+    cost: 1
+    year: 1
+  - name: Kenny Stills
     posi: WR
     cost: 1
     year: 1
