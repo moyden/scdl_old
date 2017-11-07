@@ -190,6 +190,10 @@
     cost: 59
     year: 1
     drop: true
+  - name: Marlon Mack
+    posi: RB
+    cost: 5
+    year: 1
   - name: Adrian Peterson
     posi: RB
     cost: 4
@@ -198,6 +202,7 @@
     posi: RB
     cost: 4
     year: 1
+    drop: true
   - name: Dion Lewis
     posi: RB
     cost: 3
@@ -366,6 +371,7 @@
     posi: WR
     cost: 3
     year: 4
+    drop: true
   - name: Tavon Austin
     posi: WR
     cost: 2
@@ -402,6 +408,10 @@
     year: 1
     drop: true
   - name: JuJu Smith-Schuster
+    posi: WR
+    cost: 1
+    year: 1
+  - name: Marqise Lee
     posi: WR
     cost: 1
     year: 1
