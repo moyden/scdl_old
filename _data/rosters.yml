@@ -103,6 +103,7 @@
     posi: WR
     cost: 9
     year: 1
+    drop: true
   - name: Corey Davis
     posi: WR
     cost: 5
@@ -145,6 +146,10 @@
     cost: 1
     year: 1
     drop: true
+  - name: Robby Anderson
+    posi: WR
+    cost: 1
+    year: 1
   - name: Hunter Henry
     posi: TE
     cost: 4
