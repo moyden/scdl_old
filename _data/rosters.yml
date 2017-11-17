@@ -501,7 +501,12 @@
     posi: RB
     cost: 1
     year: 1
+    drop: true
   - name: Orleans Darkwa
+    posi: RB
+    cost: 1
+    year: 1
+  - name: Jamaal Williams
     posi: RB
     cost: 1
     year: 1
@@ -627,6 +632,10 @@
     posi: RB
     cost: 1
     year: 1
+  - name: Kenyan Drake
+    posi: RB
+    cost: 2
+    year: 1
   - name: Antonio Brown
     posi: WR
     cost: 49
@@ -674,6 +683,7 @@
     posi: WR
     cost: 1
     year: 1
+    drop: true
   - name: Jordan Reed
     posi: TE
     cost: 11
@@ -762,6 +772,7 @@
     posi: WR
     cost: 2
     year: 1
+    drop: true
   - name: Willie Snead
     posi: WR
     cost: 1
@@ -811,6 +822,7 @@
     posi: QB
     cost: 1
     year: 1
+    drop: true
   - name: Ezekiel Elliott
     posi: RB
     cost: 37
@@ -856,6 +868,10 @@
     cost: 1
     year: 1
     drop: true
+  - name: Alfred Morris
+    posi: RB
+    cost: 1
+    year: 1
   - name: Julio Jones
     posi: WR
     cost: 35
@@ -889,10 +905,15 @@
     posi: WR
     cost: 2
     year: 1
+    drop: true
   - name: Rishard Matthews
     posi: WR
     cost: 1
     year: 2
+  - name: Robert Woods
+    posi: WR
+    cost: 1
+    year: 1
   - name: Tyler Eifert
     posi: TE
     cost: 1
