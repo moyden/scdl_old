@@ -204,8 +204,8 @@
     year: 1
   - name: Jimmy Garropolo
     posi: QB
-    cost: 1
-    year: 1
+    cost: 7
+    year: 2
   - name: "Le'Veon Bell"
     posi: RB
     cost: 59
@@ -304,8 +304,8 @@
     drop: true
   - name: Julian Edelman
     posi: WR
-    cost: 1
-    year: 1
+    cost: 7
+    year: 2
   - name: Greg Olsen
     posi: TE
     cost: 5
