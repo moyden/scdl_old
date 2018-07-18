@@ -64,6 +64,10 @@
     cost: 4
     year: 1
     drop: true
+  - name: Giovani Bernard
+    posi: RB
+    cost: 4
+    year: 1
   - name: Jamaal Charles
     posi: RB
     cost: 3
@@ -174,6 +178,7 @@
     posi: TE
     cost: 1
     year: 1
+    drop: true
   - name: Delanie Walker
     posi: TE
     cost: 1
@@ -192,7 +197,12 @@
     posi: QB
     cost: 1
     year: 1
+    drop: true
   - name: Jared Goff
+    posi: QB
+    cost: 1
+    year: 1
+  - name: Jimmy Garropolo
     posi: QB
     cost: 1
     year: 1
@@ -213,6 +223,7 @@
     posi: RB
     cost: 4
     year: 1
+    drop: true
   - name: Darren McFadden
     posi: RB
     cost: 4
@@ -291,6 +302,10 @@
     cost: 1
     year: 2
     drop: true
+  - name: Julian Edelman
+    posi: WR
+    cost: 1
+    year: 1
   - name: Greg Olsen
     posi: TE
     cost: 5
@@ -720,10 +735,15 @@
     cost: 1
     year: 1
     drop: true
+  - name: Mike Wallace
+    posi: WR
+    cost: 1
+    year: 1
   - name: Jordan Reed
     posi: TE
     cost: 11
     year: 1
+    drop: true
   - name: Travis Kelce
     posi: TE
     cost: 8
@@ -835,6 +855,14 @@
   owner: Alex White
   cap: 200
   roster:
+  - name: Deshaun Watson
+    posi: QB
+    cost: 7
+    year: 2
+  - name: Matt Ryan
+    posi: QB
+    cost: 6
+    year: 2
   - name: Ryan Tannehill
     posi: QB
     cost: 3
@@ -845,10 +873,6 @@
     cost: 1
     year: 1
     drop: true
-  - name: Matt Ryan
-    posi: QB
-    cost: 6
-    year: 2
   - name: Ben Roethlisberger
     posi: QB
     cost: 1
@@ -908,6 +932,7 @@
     posi: RB
     cost: 1
     year: 1
+    drop: true
   - name: Julio Jones
     posi: WR
     cost: 35
@@ -924,6 +949,7 @@
     posi: WR
     cost: 5
     year: 1
+    drop: true
   - name: Martavis Bryant
     posi: WR
     cost: 4
@@ -937,6 +963,7 @@
     posi: WR
     cost: 3
     year: 1
+    drop: true
   - name: Pierre Garcon
     posi: WR
     cost: 2
@@ -968,6 +995,7 @@
     posi: TE
     cost: 1
     year: 1
+    drop: true
 
 - name: Team HGH
   id: team-hgh
