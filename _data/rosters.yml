@@ -110,6 +110,10 @@
     cost: 9
     year: 1
     drop: true
+  - name: Marvin Jones
+    posi: WR
+    cost: 7
+    year: 2
   - name: Corey Davis
     posi: WR
     cost: 5
@@ -138,10 +142,6 @@
     posi: WR
     cost: 1
     year: 2
-  - name: Josh Gordon
-    posi: WR
-    cost: 1
-    year: 1
   - name: Mike Williams
     posi: WR
     cost: 1
@@ -564,6 +564,10 @@
     posi: WR
     cost: 13
     year: 1
+  - name: Josh Gordon
+    posi: WR
+    cost: 7
+    year: 2
   - name: Golden Tate
     posi: WR
     cost: 6
@@ -585,10 +589,6 @@
     posi: WR
     cost: 1
     year: 3
-  - name: Marvin Jones
-    posi: WR
-    cost: 1
-    year: 1
   - name: Rob Gronkowski
     posi: TE
     cost: 41
