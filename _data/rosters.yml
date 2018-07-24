@@ -560,6 +560,7 @@
     posi: WR
     cost: 29
     year: 1
+    drop: true
   - name: Doug Baldwin
     posi: WR
     cost: 13
