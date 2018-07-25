@@ -609,7 +609,7 @@
   trophies:
   - 2015
   - 2017
-  cap: 200
+  cap: 215
   roster:
   - name: Matthew Stafford
     posi: QB
@@ -658,10 +658,6 @@
     cost: 2
     year: 2
     drop: true
-  - name: Alvin Kamara
-    posi: RB
-    cost: 2
-    year: 1
   - name: Kenyan Drake
     posi: RB
     cost: 2
@@ -754,7 +750,7 @@
 - name: London Lizards
   id: london-lizards
   owner: Dominic Noble
-  cap: 200
+  cap: 185
   roster:
   - name: Dak Prescott
     posi: QB
@@ -772,6 +768,7 @@
     posi: RB
     cost: 31
     year: 1
+    drop: true
   - name: LeSean McCoy
     posi: RB
     cost: 28
@@ -785,6 +782,10 @@
     cost: 20
     year: 2
   - name: C.J. Anderson
+    posi: RB
+    cost: 14
+    year: 3
+  - name: Alvin Kamara
     posi: RB
     cost: 14
     year: 3
