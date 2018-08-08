@@ -81,7 +81,7 @@
 - name: Dillon Panthers
   id: dillon-panthers
   owner: James Spayne
-  cap: 204
+  cap: 200
   roster:
     - name: Aaron Rodgers
       posi: QB
@@ -216,7 +216,7 @@
 - name: Jamaal About That Base
   id: jamaal-about-that-base
   owner: Will Capes
-  cap: 197
+  cap: 201
   roster:
     - name: Eli Manning
       posi: QB
