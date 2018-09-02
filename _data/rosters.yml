@@ -155,6 +155,10 @@
       posi: RB
       cost: 3
       year: 1
+    - name: James White
+      posi: RB
+      cost: 2
+      year: 1
     - name: Brandin Cooks
       posi: WR
       cost: 15
@@ -457,10 +461,6 @@
       posi: RB
       cost: 3
       year: 1
-    - name: James White
-      posi: RB
-      cost: 2
-      year: 1
     - name: Antonio Brown
       posi: WR
       cost: 49
@@ -696,10 +696,6 @@
       posi: WR
       cost: 6
       year: 1
-    - name: Martavis Bryant
-      posi: WR
-      cost: 4
-      year: 2
     - name: Robby Anderson
       posi: WR
       cost: 3
@@ -728,6 +724,11 @@
       posi: RB
       cost: 1
       year: 1
+      drop: true
+    - name: Martavis Bryant
+      posi: WR
+      cost: 4
+      year: 2
       drop: true
     - name: Jaelen Strong
       posi: WR
