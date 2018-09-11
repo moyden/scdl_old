@@ -143,15 +143,15 @@
       posi: RB
       cost: 10
       year: 3
+    - name: James Conner
+      posi: RB
+      cost: 8
+      year: 1
     - name: Jamaal Williams
       posi: RB
       cost: 4
       year: 2
     - name: Dion Lewis
-      posi: RB
-      cost: 3
-      year: 1
-    - name: Nyheim Hines
       posi: RB
       cost: 3
       year: 1
@@ -203,6 +203,11 @@
       posi: TE
       cost: 4
       year: 3
+    - name: Nyheim Hines
+      posi: RB
+      cost: 3
+      year: 1
+      drop: true
     - name: Mike Gillislee
       posi: RB
       cost: 2
