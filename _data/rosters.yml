@@ -11,10 +11,6 @@
       posi: QB
       cost: 5
       year: 3
-    - name: Ben Roethlisberger
-      posi: QB
-      cost: 3
-      year: 2
     - name: Jay Ajayi
       posi: RB
       cost: 25
@@ -40,6 +36,10 @@
       cost: 5
       year: 1
     - name: Chris Thompson
+      posi: RB
+      cost: 2
+      year: 1
+    - name: T.J. Yeldon
       posi: RB
       cost: 2
       year: 1
@@ -87,6 +87,11 @@
       posi: QB
       cost: 3
       year: 3
+      drop: true
+    - name: Ben Roethlisberger
+      posi: QB
+      cost: 3
+      year: 2
       drop: true
     - name: Thomas Rawls
       posi: RB
@@ -195,14 +200,14 @@
       posi: WR
       cost: 2
       year: 3
-    - name: Greg Olsen
-      posi: TE
-      cost: 5
-      year: 1
     - name: David Njoku
       posi: TE
       cost: 4
       year: 3
+    - name: George Kittle
+      posi: TE
+      cost: 3
+      year: 1
     - name: Nyheim Hines
       posi: RB
       cost: 3
@@ -231,6 +236,11 @@
     - name: Markus Wheaton
       posi: WR
       cost: 1
+      year: 1
+      drop: true
+    - name: Greg Olsen
+      posi: TE
+      cost: 5
       year: 1
       drop: true
     - name: Coby Fleener
@@ -268,6 +278,10 @@
       posi: RB
       cost: 12
       year: 2
+    - name: Adrian Peterson
+      posi: RB
+      cost: 8
+      year: 1
     - name: Alex Collins
       posi: RB
       cost: 6
@@ -633,6 +647,10 @@
       posi: WR
       cost: 1
       year: 2
+    - name: Jared Cook
+      posi: TE
+      cost: 2
+      year: 1
     - name: Zach Ertz
       posi: TE
       cost: 1
@@ -775,6 +793,10 @@
       posi: RB
       cost: 13
       year: 3
+    - name: Phillip Lindsay
+      posi: RB
+      cost: 8
+      year: 1
     - name: Chris Carson
       posi: RB
       cost: 3
