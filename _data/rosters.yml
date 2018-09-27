@@ -358,11 +358,6 @@
       posi: TE
       cost: 5
       year: 1
-    - name: ''
-      posi: ''
-      cost: 1
-      year: 1
-      drop: true
     - name: Ameer Abdullah
       posi: RB
       cost: 12
