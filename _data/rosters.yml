@@ -142,6 +142,10 @@
       posi: QB
       cost: 12
       year: 2
+    - name: Ryan Tannehill
+      posi: QB
+      cost: 1
+      year: 1
     - name: Le'Veon Bell
       posi: RB
       cost: 59
@@ -206,6 +210,10 @@
       posi: WR
       cost: 2
       year: 3
+    - name: Antonio Callaway
+      posi: WR
+      cost: 1
+      year: 1
     - name: David Njoku
       posi: TE
       cost: 4
@@ -358,6 +366,11 @@
       posi: TE
       cost: 5
       year: 1
+    - name: ''
+      posi: ''
+      cost: 1
+      year: 1
+      drop: true
     - name: Ameer Abdullah
       posi: RB
       cost: 12
@@ -666,10 +679,6 @@
       posi: WR
       cost: 3
       year: 2
-    - name: DeVante Parker
-      posi: WR
-      cost: 3
-      year: 1
     - name: James Washington
       posi: WR
       cost: 1
@@ -682,6 +691,10 @@
       posi: WR
       cost: 1
       year: 2
+    - name: Geronimo Allison
+      posi: WR
+      cost: 1
+      year: 1
     - name: Jared Cook
       posi: TE
       cost: 2
@@ -698,6 +711,11 @@
     - name: Joseph Randle
       posi: RB
       cost: 6
+      year: 1
+      drop: true
+    - name: DeVante Parker
+      posi: WR
+      cost: 3
       year: 1
       drop: true
     - name: John Brown
