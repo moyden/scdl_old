@@ -11,9 +11,9 @@
       posi: QB
       cost: 5
       year: 3
-    - name: Jay Ajayi
-      posi: RB
-      cost: 25
+    - name: Philip Rivers
+      posi: QB
+      cost: 1
       year: 1
     - name: Leonard Fournette
       posi: RB
@@ -46,6 +46,10 @@
     - name: T.J. Yeldon
       posi: RB
       cost: 2
+      year: 1
+    - name: Aaron Jones
+      posi: RB
+      cost: 1
       year: 1
     - name: Odell Beckham Jr.
       posi: WR
@@ -92,6 +96,11 @@
       posi: QB
       cost: 3
       year: 2
+      drop: true
+    - name: Jay Ajayi
+      posi: RB
+      cost: 25
+      year: 1
       drop: true
     - name: Thomas Rawls
       posi: RB
@@ -142,7 +151,7 @@
       posi: QB
       cost: 12
       year: 2
-    - name: Ryan Tannehill
+    - name: Baker Mayfield
       posi: QB
       cost: 1
       year: 1
@@ -227,6 +236,11 @@
       cost: 7
       year: 1
       drop: true
+    - name: Ryan Tannehill
+      posi: QB
+      cost: 1
+      year: 1
+      drop: true
     - name: Tyrod Taylor
       posi: QB
       cost: 1
@@ -286,10 +300,6 @@
       posi: QB
       cost: 36
       year: 2
-    - name: Ryan Fitzpatrick
-      posi: QB
-      cost: 2
-      year: 1
     - name: Jordan Howard
       posi: RB
       cost: 23
@@ -317,6 +327,10 @@
     - name: Isaiah Crowell
       posi: RB
       cost: 3
+      year: 1
+    - name: Corey Clement
+      posi: RB
+      cost: 1
       year: 1
     - name: Keenan Allen
       posi: WR
@@ -350,10 +364,6 @@
       posi: WR
       cost: 1
       year: 3
-    - name: Jamison Crowder
-      posi: WR
-      cost: 1
-      year: 2
     - name: Adam Thielen
       posi: WR
       cost: 1
@@ -366,6 +376,15 @@
       posi: TE
       cost: 5
       year: 1
+    - name: Austin Hooper
+      posi: TE
+      cost: 1
+      year: 1
+    - name: Ryan Fitzpatrick
+      posi: QB
+      cost: 2
+      year: 1
+      drop: true
     - name: Ameer Abdullah
       posi: RB
       cost: 12
@@ -385,6 +404,11 @@
       posi: WR
       cost: 3
       year: 3
+      drop: true
+    - name: Jamison Crowder
+      posi: WR
+      cost: 1
+      year: 2
       drop: true
 - name: Jamaal About That Base
   id: jamaal-about-that-base
@@ -419,6 +443,10 @@
       posi: RB
       cost: 8
       year: 1
+    - name: Peyton Barber
+      posi: RB
+      cost: 3
+      year: 1
     - name: Giovani Bernard
       posi: RB
       cost: 2
@@ -431,10 +459,6 @@
       posi: RB
       cost: 1
       year: 3
-    - name: Theo Riddick
-      posi: RB
-      cost: 1
-      year: 1
     - name: Josh Gordon
       posi: WR
       cost: 7
@@ -485,6 +509,11 @@
       posi: RB
       cost: 1
       year: 2
+      drop: true
+    - name: Theo Riddick
+      posi: RB
+      cost: 1
+      year: 1
       drop: true
     - name: Randall Cobb
       posi: WR
@@ -551,6 +580,10 @@
       posi: WR
       cost: 3
       year: 1
+    - name: Albert Wilson
+      posi: WR
+      cost: 2
+      year: 1
     - name: Josh Doctson
       posi: WR
       cost: 1
@@ -559,10 +592,6 @@
       posi: WR
       cost: 1
       year: 2
-    - name: Dez Bryant
-      posi: WR
-      cost: 1
-      year: 1
     - name: Kenny Golladay
       posi: WR
       cost: 1
@@ -609,6 +638,11 @@
       cost: 1
       year: 2
       drop: true
+    - name: Dez Bryant
+      posi: WR
+      cost: 1
+      year: 1
+      drop: true
 - name: London Lizards
   id: london-lizards
   owner: Dominic Noble
@@ -639,10 +673,6 @@
       cost: 20
       year: 1
     - name: Alvin Kamara
-      posi: RB
-      cost: 14
-      year: 2
-    - name: C.J. Anderson
       posi: RB
       cost: 14
       year: 2
@@ -686,6 +716,10 @@
       posi: WR
       cost: 1
       year: 2
+    - name: DeSean Jackson
+      posi: WR
+      cost: 1
+      year: 1
     - name: Geronimo Allison
       posi: WR
       cost: 1
@@ -702,6 +736,11 @@
       posi: QB
       cost: 4
       year: 1
+      drop: true
+    - name: C.J. Anderson
+      posi: RB
+      cost: 14
+      year: 2
       drop: true
     - name: Joseph Randle
       posi: RB
@@ -791,6 +830,10 @@
     - name: Jack Doyle
       posi: TE
       cost: 2
+      year: 1
+    - name: Eric Ebron
+      posi: TE
+      cost: 1
       year: 1
     - name: Jordan Reed
       posi: TE
