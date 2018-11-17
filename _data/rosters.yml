@@ -1,7 +1,7 @@
 - name: Colorado Pony Hospital
   id: colorado-pony-hospital
   owner: Joseph Moyden
-  cap: 199
+  cap: 218
   roster:
     - name: Drew Brees
       posi: QB
@@ -35,15 +35,7 @@
       posi: RB
       cost: 5
       year: 1
-    - name: Chris Thompson
-      posi: RB
-      cost: 2
-      year: 1
     - name: Latavius Murray
-      posi: RB
-      cost: 2
-      year: 1
-    - name: T.J. Yeldon
       posi: RB
       cost: 2
       year: 1
@@ -55,10 +47,18 @@
       posi: WR
       cost: 39
       year: 2
+    - name: DeAndre Hopkins
+      posi: WR
+      cost: 27
+      year: 2
     - name: Davante Adams
       posi: WR
       cost: 12
       year: 2
+    - name: Stefon Diggs
+      posi: WR
+      cost: 7
+      year: 3
     - name: Marvin Jones
       posi: WR
       cost: 7
@@ -75,10 +75,6 @@
       posi: WR
       cost: 2
       year: 4
-    - name: Michael Thomas
-      posi: WR
-      cost: 1
-      year: 1
     - name: Kyle Rudolph
       posi: TE
       cost: 3
@@ -113,6 +109,11 @@
       year: 1
       drop: true
     - name: Giovani Bernard
+      posi: RB
+      cost: 2
+      year: 1
+      drop: true
+    - name: T.J. Yeldon
       posi: RB
       cost: 2
       year: 1
@@ -300,6 +301,10 @@
       posi: QB
       cost: 36
       year: 2
+    - name: Ryan Fitzpatrick
+      posi: QB
+      cost: 1
+      year: 1
     - name: Jordan Howard
       posi: RB
       cost: 23
@@ -327,10 +332,6 @@
     - name: Isaiah Crowell
       posi: RB
       cost: 3
-      year: 1
-    - name: Corey Clement
-      posi: RB
-      cost: 1
       year: 1
     - name: Keenan Allen
       posi: WR
@@ -395,6 +396,11 @@
       cost: 3
       year: 1
       drop: true
+    - name: Corey Clement
+      posi: RB
+      cost: 1
+      year: 1
+      drop: true
     - name: Jacquizz Rodgers
       posi: RB
       cost: 1
@@ -435,10 +441,6 @@
       posi: RB
       cost: 9
       year: 3
-    - name: Alfred Morris
-      posi: RB
-      cost: 8
-      year: 1
     - name: Matt Breida
       posi: RB
       cost: 8
@@ -447,11 +449,11 @@
       posi: RB
       cost: 3
       year: 1
-    - name: Giovani Bernard
+    - name: Doug Martin
       posi: RB
       cost: 2
       year: 1
-    - name: Spencer Ware
+    - name: Giovani Bernard
       posi: RB
       cost: 2
       year: 1
@@ -472,6 +474,10 @@
       cost: 4
       year: 5
     - name: Michael Crabtree
+      posi: WR
+      cost: 2
+      year: 1
+    - name: Tyrell Williams
       posi: WR
       cost: 2
       year: 1
@@ -504,6 +510,16 @@
       posi: RB
       cost: 51
       year: 2
+      drop: true
+    - name: Alfred Morris
+      posi: RB
+      cost: 8
+      year: 1
+      drop: true
+    - name: Spencer Ware
+      posi: RB
+      cost: 2
+      year: 1
       drop: true
     - name: Andre Williams
       posi: RB
@@ -555,6 +571,10 @@
     - name: Rex Burkhead
       posi: RB
       cost: 3
+      year: 1
+    - name: Javorius Allen
+      posi: RB
+      cost: 1
       year: 1
     - name: Antonio Brown
       posi: WR
@@ -646,7 +666,7 @@
 - name: London Lizards
   id: london-lizards
   owner: Dominic Noble
-  cap: 185
+  cap: 166
   roster:
     - name: Cam Newton
       posi: QB
@@ -684,10 +704,14 @@
       posi: RB
       cost: 5
       year: 3
-    - name: DeAndre Hopkins
-      posi: WR
-      cost: 23
+    - name: Chris Thompson
+      posi: RB
+      cost: 2
       year: 1
+    - name: Michael Thomas
+      posi: WR
+      cost: 9
+      year: 3
     - name: Jordy Nelson
       posi: WR
       cost: 9
@@ -700,10 +724,10 @@
       posi: WR
       cost: 3
       year: 4
-    - name: Stefon Diggs
+    - name: Dez Bryant
       posi: WR
-      cost: 3
-      year: 2
+      cost: 2
+      year: 1
     - name: James Washington
       posi: WR
       cost: 1
@@ -717,10 +741,6 @@
       cost: 1
       year: 2
     - name: DeSean Jackson
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Geronimo Allison
       posi: WR
       cost: 1
       year: 1
@@ -755,6 +775,11 @@
     - name: John Brown
       posi: WR
       cost: 2
+      year: 1
+      drop: true
+    - name: Geronimo Allison
+      posi: WR
+      cost: 1
       year: 1
       drop: true
     - name: Jason Witten
@@ -795,10 +820,6 @@
       posi: RB
       cost: 8
       year: 1
-    - name: Marshawn Lynch
-      posi: RB
-      cost: 3
-      year: 1
     - name: LeGarrette Blount
       posi: RB
       cost: 2
@@ -835,14 +856,19 @@
       posi: TE
       cost: 1
       year: 1
+    - name: Greg Olsen
+      posi: TE
+      cost: 1
+      year: 1
     - name: Jordan Reed
       posi: TE
       cost: 1
       year: 1
-    - name: Tyler Eifert
-      posi: TE
-      cost: 1
+    - name: Marshawn Lynch
+      posi: RB
+      cost: 3
       year: 1
+      drop: true
     - name: Devontae Booker
       posi: RB
       cost: 1
@@ -869,6 +895,11 @@
       year: 1
       drop: true
     - name: Charles Clay
+      posi: TE
+      cost: 1
+      year: 1
+      drop: true
+    - name: Tyler Eifert
       posi: TE
       cost: 1
       year: 1
