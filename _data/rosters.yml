@@ -55,11 +55,6 @@
       posi: WR
       cost: 12
       year: 2
-    - name: Marvin Jones
-      posi: WR
-      cost: 7
-      year: 1
-      drop: true
     - name: Corey Davis
       posi: WR
       cost: 5
@@ -118,6 +113,11 @@
     - name: Terrelle Pryor Sr.
       posi: WR
       cost: 10
+      year: 1
+      drop: true
+    - name: Marvin Jones
+      posi: WR
+      cost: 7
       year: 1
       drop: true
     - name: Kevin White
