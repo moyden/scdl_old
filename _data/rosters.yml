@@ -59,6 +59,7 @@
       posi: WR
       cost: 7
       year: 1
+      drop: true
     - name: Corey Davis
       posi: WR
       cost: 5
