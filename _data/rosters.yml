@@ -75,6 +75,10 @@
       posi: TE
       cost: 1
       year: 4
+    - name: Vance McDonald
+      posi: TE
+      cost: 1
+      year: 1
     - name: Blake Bortles
       posi: QB
       cost: 3
@@ -165,6 +169,10 @@
       posi: RB
       cost: 10
       year: 3
+    - name: Jay Ajayi
+      posi: RB
+      cost: 5
+      year: 2
     - name: Tevin Coleman
       posi: RB
       cost: 5
@@ -217,10 +225,6 @@
       posi: WR
       cost: 2
       year: 3
-    - name: Antonio Callaway
-      posi: WR
-      cost: 1
-      year: 1
     - name: David Njoku
       posi: TE
       cost: 4
@@ -267,6 +271,11 @@
     - name: DeSean Jackson
       posi: WR
       cost: 2
+      year: 1
+      drop: true
+    - name: Antonio Callaway
+      posi: WR
+      cost: 1
       year: 1
       drop: true
     - name: Markus Wheaton
@@ -553,6 +562,10 @@
       posi: RB
       cost: 58
       year: 1
+    - name: Gus Edwards
+      posi: RB
+      cost: 8
+      year: 1
     - name: Carlos Hyde
       posi: RB
       cost: 7
@@ -564,10 +577,6 @@
     - name: Kerryon Johnson
       posi: RB
       cost: 5
-      year: 1
-    - name: Rex Burkhead
-      posi: RB
-      cost: 3
       year: 1
     - name: Javorius Allen
       posi: RB
@@ -633,6 +642,11 @@
     - name: Bilal Powell
       posi: RB
       cost: 5
+      year: 1
+      drop: true
+    - name: Rex Burkhead
+      posi: RB
+      cost: 3
       year: 1
       drop: true
     - name: Jamaal Williams
