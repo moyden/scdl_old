@@ -7,10 +7,6 @@
       posi: QB
       cost: 11
       year: 1
-    - name: Marcus Mariota
-      posi: QB
-      cost: 5
-      year: 3
     - name: Philip Rivers
       posi: QB
       cost: 1
@@ -27,10 +23,10 @@
       posi: RB
       cost: 16
       year: 1
-    - name: Ronald Jones
+    - name: Josh Adams
       posi: RB
       cost: 8
-      year: 2
+      year: 1
     - name: Nick Chubb
       posi: RB
       cost: 5
@@ -79,6 +75,11 @@
       posi: TE
       cost: 1
       year: 1
+    - name: Marcus Mariota
+      posi: QB
+      cost: 5
+      year: 3
+      drop: true
     - name: Blake Bortles
       posi: QB
       cost: 3
@@ -98,6 +99,11 @@
       posi: RB
       cost: 9
       year: 1
+      drop: true
+    - name: Ronald Jones
+      posi: RB
+      cost: 8
+      year: 2
       drop: true
     - name: David Cobb
       posi: RB
@@ -855,14 +861,6 @@
       posi: WR
       cost: 3
       year: 1
-    - name: Robby Anderson
-      posi: WR
-      cost: 3
-      year: 1
-    - name: Jack Doyle
-      posi: TE
-      cost: 2
-      year: 1
     - name: Eric Ebron
       posi: TE
       cost: 1
@@ -890,6 +888,11 @@
       cost: 4
       year: 2
       drop: true
+    - name: Robby Anderson
+      posi: WR
+      cost: 3
+      year: 1
+      drop: true
     - name: Donte Moncrief
       posi: WR
       cost: 1
@@ -903,6 +906,11 @@
     - name: Rishard Matthews
       posi: WR
       cost: 1
+      year: 1
+      drop: true
+    - name: Jack Doyle
+      posi: TE
+      cost: 2
       year: 1
       drop: true
     - name: Charles Clay
