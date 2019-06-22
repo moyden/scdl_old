@@ -35,6 +35,11 @@
       posi: RB
       cost: 2
       year: 1
+      drop: true
+    - name: Justin Jackson
+      posi: RB
+      cost: 2
+      year: 1
     - name: Aaron Jones
       posi: RB
       cost: 1
@@ -67,6 +72,7 @@
       posi: TE
       cost: 3
       year: 1
+      drop: true
     - name: O.J. Howard
       posi: TE
       cost: 1
@@ -143,6 +149,11 @@
     - name: Hunter Henry
       posi: TE
       cost: 4
+      year: 1
+      drop: true
+    - name: Kyle Rudolph
+      posi: TE
+      cost: 3
       year: 1
       drop: true
     - name: Delanie Walker
@@ -564,6 +575,11 @@
       posi: QB
       cost: 3
       year: 1
+      drop: true
+    - name: Josh Allen
+      posi: QB
+      cost: 2
+      year: 1
     - name: David Johnson
       posi: RB
       cost: 58
@@ -580,6 +596,10 @@
       posi: RB
       cost: 6
       year: 1
+    - name: Spencer Ware
+      posi: RB
+      cost: 6
+      year: 1
     - name: Kerryon Johnson
       posi: RB
       cost: 5
@@ -588,6 +608,7 @@
       posi: RB
       cost: 1
       year: 1
+      drop: true
     - name: Antonio Brown
       posi: WR
       cost: 49
@@ -604,6 +625,7 @@
       posi: WR
       cost: 6
       year: 1
+      drop: true
     - name: Robert Woods
       posi: WR
       cost: 6
@@ -612,10 +634,12 @@
       posi: WR
       cost: 3
       year: 1
+      drop: true
     - name: Albert Wilson
       posi: WR
       cost: 2
       year: 1
+      drop: true
     - name: Josh Doctson
       posi: WR
       cost: 1
@@ -624,6 +648,7 @@
       posi: WR
       cost: 1
       year: 2
+      drop: true
     - name: Kenny Golladay
       posi: WR
       cost: 1
@@ -807,6 +832,8 @@
 - name: Oxford White Sharks
   id: oxford-white-sharks
   owner: Alex White
+  trophies:
+    - 2018
   cap: 200
   roster:
     - name: Deshaun Watson
@@ -954,6 +981,10 @@
       posi: RB
       cost: 8
       year: 1
+    - name: Jaylen Samuels
+      posi: RB
+      cost: 5
+      year: 1
     - name: Chris Carson
       posi: RB
       cost: 3
@@ -962,6 +993,7 @@
       posi: RB
       cost: 3
       year: 1
+      drop: true
     - name: Duke Johnson Jr.
       posi: RB
       cost: 2
@@ -994,6 +1026,11 @@
       posi: WR
       cost: 3
       year: 1
+      drop: true
+    - name: Adam Humphries
+      posi: WR
+      cost: 3
+      year: 1
     - name: Christian Kirk
       posi: WR
       cost: 2
@@ -1013,6 +1050,11 @@
     - name: Evan Engram
       posi: TE
       cost: 1
+      year: 1
+      drop: true
+    - name: Chris Herndon
+      posi: TE
+      cost: 5
       year: 1
     - name: Jeremy Hill
       posi: RB
