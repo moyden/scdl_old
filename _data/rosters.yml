@@ -31,18 +31,9 @@
       posi: RB
       cost: 5
       year: 4
-    - name: Latavius Murray
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
     - name: Justin Jackson
       posi: RB
       cost: 2
-      year: 1
-    - name: Aaron Jones
-      posi: RB
-      cost: 1
       year: 1
     - name: Odell Beckham Jr.
       posi: WR
@@ -68,11 +59,6 @@
       posi: WR
       cost: 2
       year: 4
-    - name: Kyle Rudolph
-      posi: TE
-      cost: 3
-      year: 1
-      drop: true
     - name: O.J. Howard
       posi: TE
       cost: 1
@@ -124,6 +110,16 @@
     - name: T.J. Yeldon
       posi: RB
       cost: 2
+      year: 1
+      drop: true
+    - name: Latavius Murray
+      posi: RB
+      cost: 2
+      year: 1
+      drop: true
+    - name: Aaron Jones
+      posi: RB
+      cost: 1
       year: 1
       drop: true
     - name: Terrelle Pryor Sr.
@@ -328,6 +324,7 @@
       posi: QB
       cost: 1
       year: 1
+      drop: true
     - name: Jordan Howard
       posi: RB
       cost: 23
@@ -393,6 +390,10 @@
       cost: 1
       year: 1
     - name: Tyler Lockett
+      posi: WR
+      cost: 1
+      year: 1
+    - name: Kelvin Benjamin
       posi: WR
       cost: 1
       year: 1
@@ -864,9 +865,13 @@
       posi: RB
       cost: 8
       year: 1
-    - name: LeGarrette Blount
+    - name: Damien Williams
       posi: RB
-      cost: 2
+      cost: 5
+      year: 1
+    - name: Elijah McGuire
+      posi: RB
+      cost: 3
       year: 1
     - name: Julio Jones
       posi: WR
@@ -884,25 +889,18 @@
       posi: WR
       cost: 6
       year: 1
-    - name: John Brown
-      posi: WR
-      cost: 3
-      year: 1
     - name: Eric Ebron
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Greg Olsen
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Jordan Reed
       posi: TE
       cost: 1
       year: 1
     - name: Marshawn Lynch
       posi: RB
       cost: 3
+      year: 1
+      drop: true
+    - name: LeGarrette Blount
+      posi: RB
+      cost: 2
       year: 1
       drop: true
     - name: Devontae Booker
@@ -916,6 +914,11 @@
       year: 2
       drop: true
     - name: Robby Anderson
+      posi: WR
+      cost: 3
+      year: 1
+      drop: true
+    - name: John Brown
       posi: WR
       cost: 3
       year: 1
@@ -946,6 +949,16 @@
       year: 1
       drop: true
     - name: Tyler Eifert
+      posi: TE
+      cost: 1
+      year: 1
+      drop: true
+    - name: Greg Olsen
+      posi: TE
+      cost: 1
+      year: 1
+      drop: true
+    - name: Jordan Reed
       posi: TE
       cost: 1
       year: 1
