@@ -6,62 +6,62 @@
     - name: Leonard Fournette
       posi: RB
       cost: 20
-      year: 3
+      year: 2
     - name: James Conner
       posi: RB
       cost: 16
-      year: 3
+      year: 2
     - name: Nick Chubb
       posi: RB
       cost: 5
-      year: 4
+      year: 3
     - name: Odell Beckham Jr.
       posi: WR
       cost: 39
-      year: 2
+      year: 1
     - name: DeAndre Hopkins
       posi: WR
       cost: 27
-      year: 2
+      year: 1
     - name: Davante Adams
       posi: WR
       cost: 12
-      year: 2
+      year: 1
     - name: Corey Davis
       posi: WR
       cost: 5
-      year: 3
+      year: 2
     - name: Jarvis Landry
       posi: WR
       cost: 5
-      year: 3
+      year: 2
     - name: Courtland Sutton
       posi: WR
       cost: 2
-      year: 4
+      year: 3
     - name: O.J. Howard
       posi: TE
       cost: 1
-      year: 4
+      year: 3
     - name: Marcus Mariota
       posi: QB
       cost: 5
-      year: 3
+      year: 2
       drop: true
     - name: Blake Bortles
       posi: QB
       cost: 3
-      year: 3
+      year: 2
       drop: true
     - name: Ben Roethlisberger
       posi: QB
       cost: 3
-      year: 2
+      year: 1
       drop: true
     - name: Ronald Jones
       posi: RB
       cost: 8
-      year: 2
+      year: 1
       drop: true
 - name: Dillon Panthers
   id: dillon-panthers
@@ -71,59 +71,59 @@
     - name: Aaron Rodgers
       posi: QB
       cost: 12
-      year: 2
+      year: 1
     - name: Le'Veon Bell
       posi: RB
       cost: 59
-      year: 2
+      year: 1
     - name: Sony Michel
       posi: RB
       cost: 11
-      year: 3
+      year: 2
     - name: Royce Freeman
       posi: RB
       cost: 10
-      year: 3
+      year: 2
     - name: Jay Ajayi
       posi: RB
       cost: 5
-      year: 2
+      year: 1
     - name: Jamaal Williams
       posi: RB
       cost: 4
-      year: 2
+      year: 1
     - name: Brandin Cooks
       posi: WR
       cost: 15
-      year: 2
+      year: 1
     - name: Stefon Diggs
       posi: WR
       cost: 7
-      year: 3
+      year: 2
     - name: Will Fuller
       posi: WR
       cost: 4
-      year: 4
+      year: 3
     - name: Sterling Shepherd
       posi: WR
       cost: 3
-      year: 3
+      year: 2
     - name: Marquise Goodwin
       posi: WR
       cost: 3
-      year: 2
+      year: 1
     - name: John Ross
       posi: WR
       cost: 2
-      year: 3
+      year: 2
     - name: David Njoku
       posi: TE
       cost: 4
-      year: 3
+      year: 2
     - name: Coby Fleener
       posi: TE
       cost: 2
-      year: 2
+      year: 1
       drop: true
 - name: Dynasty Warriors IV
   id: dynasty-warriors
@@ -133,57 +133,57 @@
     - name: Andrew Luck
       posi: QB
       cost: 36
-      year: 2
+      year: 1
     - name: Kenyan Drake
       posi: RB
       cost: 15
-      year: 2
+      year: 1
     - name: Jerick McKinnon
       posi: RB
       cost: 12
-      year: 3
+      year: 2
     - name: Alex Collins
       posi: RB
       cost: 6
-      year: 2
+      year: 1
     - name: Keenan Allen
       posi: WR
       cost: 25
-      year: 2
+      year: 1
     - name: T.Y. Hilton
       posi: WR
       cost: 17
-      year: 3
+      year: 2
     - name: Doug Baldwin
       posi: WR
       cost: 15
-      year: 3
+      year: 2
     - name: Calvin Ridley
       posi: WR
       cost: 3
-      year: 5
+      year: 4
     - name: Kevin White
       posi: WR
       cost: 1
-      year: 4
+      year: 3
     - name: Laquon Treadwell
       posi: WR
       cost: 1
-      year: 3
+      year: 2
     - name: Ameer Abdullah
       posi: RB
       cost: 12
-      year: 2
+      year: 1
       drop: true
     - name: Michael Floyd
       posi: WR
       cost: 3
-      year: 3
+      year: 2
       drop: true
     - name: Jamison Crowder
       posi: WR
       cost: 1
-      year: 2
+      year: 1
       drop: true
 - name: Jamaal About That Base
   id: jamaal-about-that-base
@@ -193,61 +193,61 @@
     - name: Patrick Mahomes
       posi: QB
       cost: 1
-      year: 2
+      year: 1
     - name: Saquon Barkley
       posi: RB
       cost: 40
-      year: 3
+      year: 2
     - name: Rashaad Penny
       posi: RB
       cost: 9
-      year: 5
+      year: 4
     - name: Joe Mixon
       posi: RB
       cost: 9
-      year: 3
+      year: 2
     - name: Kalen Ballage
       posi: RB
       cost: 1
-      year: 3
+      year: 2
     - name: Golden Tate
       posi: WR
       cost: 6
-      year: 2
+      year: 1
     - name: DJ Moore
       posi: WR
       cost: 4
-      year: 5
+      year: 4
     - name: Dante Pettis
       posi: WR
       cost: 1
-      year: 3
+      year: 2
     - name: Tyler Boyd
       posi: WR
       cost: 1
-      year: 2
+      year: 1
     - name: Rob Gronkowski
       posi: TE
       cost: 41
-      year: 2
+      year: 1
     - name: Mike Gesicki
       posi: TE
       cost: 1
-      year: 3
+      year: 2
     - name: Eddie Lacy
       posi: RB
       cost: 51
-      year: 2
+      year: 1
       drop: true
     - name: Andre Williams
       posi: RB
       cost: 1
-      year: 2
+      year: 1
       drop: true
     - name: Randall Cobb
       posi: WR
       cost: 35
-      year: 2
+      year: 1
       drop: true
 - name: LOL Boys
   id: lol-boys
@@ -260,21 +260,21 @@
     - name: Josh Doctson
       posi: WR
       cost: 1
-      year: 2
+      year: 1
     - name: Kelvin Benjamin
       posi: WR
       cost: 1
-      year: 2
+      year: 1
       drop: true
     - name: Corey Coleman
       posi: WR
       cost: 1
-      year: 2
+      year: 1
       drop: true
     - name: Tajae Sharpe
       posi: WR
       cost: 1
-      year: 2
+      year: 1
       drop: true
 - name: London Lizards
   id: london-lizards
@@ -284,51 +284,51 @@
     - name: Cam Newton
       posi: QB
       cost: 2
-      year: 2
+      year: 1
     - name: Devonta Freeman
       posi: RB
       cost: 25
-      year: 3
+      year: 2
     - name: Alvin Kamara
       posi: RB
       cost: 14
-      year: 2
+      year: 1
     - name: Derrius Guice
       posi: RB
       cost: 8
-      year: 4
+      year: 3
     - name: Derrick Henry
       posi: RB
       cost: 5
-      year: 3
+      year: 2
     - name: Michael Thomas
       posi: WR
       cost: 9
-      year: 3
+      year: 2
     - name: Anthony Miller
       posi: WR
       cost: 3
-      year: 4
+      year: 3
     - name: James Washington
       posi: WR
       cost: 1
-      year: 4
+      year: 3
     - name: Michael Gallup
       posi: WR
       cost: 1
-      year: 4
+      year: 3
     - name: Willie Snead
       posi: WR
       cost: 1
-      year: 2
+      year: 1
     - name: Zach Ertz
       posi: TE
       cost: 1
-      year: 2
+      year: 1
     - name: C.J. Anderson
       posi: RB
       cost: 14
-      year: 2
+      year: 1
       drop: true
 - name: Oxford White Sharks
   id: oxford-white-sharks
@@ -340,23 +340,23 @@
     - name: Lamar Jackson
       posi: QB
       cost: 1
-      year: 3
+      year: 2
     - name: Ezekiel Elliott
       posi: RB
       cost: 37
-      year: 2
+      year: 1
     - name: Christian McCaffrey
       posi: RB
       cost: 17
-      year: 3
+      year: 2
     - name: Amari Cooper
       posi: WR
       cost: 11
-      year: 2
+      year: 1
     - name: Martavis Bryant
       posi: WR
       cost: 4
-      year: 2
+      year: 1
       drop: true
 - name: Team HGH
   id: team-hgh
@@ -368,50 +368,50 @@
     - name: Russell Wilson
       posi: QB
       cost: 20
-      year: 2
+      year: 1
     - name: Carson Wentz
       posi: QB
       cost: 7
-      year: 3
+      year: 2
     - name: Kareem Hunt
       posi: RB
       cost: 14
-      year: 4
+      year: 3
     - name: Dalvin Cook
       posi: RB
       cost: 13
-      year: 3
+      year: 2
     - name: Chris Carson
       posi: RB
       cost: 3
-      year: 2
+      year: 1
     - name: Tarik Cohen
       posi: RB
       cost: 1
-      year: 3
+      year: 2
     - name: Tyreek Hill
       posi: WR
       cost: 8
-      year: 2
+      year: 1
     - name: Christian Kirk
       posi: WR
       cost: 2
-      year: 3
+      year: 2
     - name: Mike Williams
       posi: WR
       cost: 2
-      year: 3
+      year: 2
     - name: Cooper Kupp
       posi: WR
       cost: 2
-      year: 2
+      year: 1
     - name: Samaje Perine
       posi: RB
       cost: 1
-      year: 2
+      year: 1
       drop: true
     - name: Zay Jones
       posi: WR
       cost: 1
-      year: 2
+      year: 1
       drop: true
