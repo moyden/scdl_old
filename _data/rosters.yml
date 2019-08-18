@@ -1,16 +1,8 @@
 - name: Colorado Pony Hospital
   id: colorado-pony-hospital
   owner: Joseph Moyden
-  cap: 218
+  cap: 195
   roster:
-    - name: Drew Brees
-      posi: QB
-      cost: 11
-      year: 1
-    - name: Philip Rivers
-      posi: QB
-      cost: 1
-      year: 1
     - name: Leonard Fournette
       posi: RB
       cost: 20
@@ -19,22 +11,10 @@
       posi: RB
       cost: 16
       year: 3
-    - name: Melvin Gordon
-      posi: RB
-      cost: 16
-      year: 1
-    - name: Josh Adams
-      posi: RB
-      cost: 8
-      year: 1
     - name: Nick Chubb
       posi: RB
       cost: 5
       year: 4
-    - name: Justin Jackson
-      posi: RB
-      cost: 2
-      year: 1
     - name: Odell Beckham Jr.
       posi: WR
       cost: 39
@@ -63,10 +43,6 @@
       posi: TE
       cost: 1
       year: 4
-    - name: Vance McDonald
-      posi: TE
-      cost: 1
-      year: 1
     - name: Marcus Mariota
       posi: QB
       cost: 5
@@ -82,80 +58,10 @@
       cost: 3
       year: 2
       drop: true
-    - name: Jay Ajayi
-      posi: RB
-      cost: 25
-      year: 1
-      drop: true
-    - name: Thomas Rawls
-      posi: RB
-      cost: 9
-      year: 1
-      drop: true
     - name: Ronald Jones
       posi: RB
       cost: 8
       year: 2
-      drop: true
-    - name: David Cobb
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: Giovani Bernard
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: T.J. Yeldon
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: Latavius Murray
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: Aaron Jones
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Terrelle Pryor Sr.
-      posi: WR
-      cost: 10
-      year: 1
-      drop: true
-    - name: Marvin Jones
-      posi: WR
-      cost: 7
-      year: 1
-      drop: true
-    - name: Kevin White
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: DeSean Jackson
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Hunter Henry
-      posi: TE
-      cost: 4
-      year: 1
-      drop: true
-    - name: Kyle Rudolph
-      posi: TE
-      cost: 3
-      year: 1
-      drop: true
-    - name: Delanie Walker
-      posi: TE
-      cost: 2
-      year: 1
       drop: true
 - name: Dillon Panthers
   id: dillon-panthers
@@ -166,10 +72,6 @@
       posi: QB
       cost: 12
       year: 2
-    - name: Baker Mayfield
-      posi: QB
-      cost: 1
-      year: 1
     - name: Le'Veon Bell
       posi: RB
       cost: 59
@@ -186,22 +88,10 @@
       posi: RB
       cost: 5
       year: 2
-    - name: Tevin Coleman
-      posi: RB
-      cost: 5
-      year: 1
     - name: Jamaal Williams
       posi: RB
       cost: 4
       year: 2
-    - name: Dion Lewis
-      posi: RB
-      cost: 3
-      year: 1
-    - name: James White
-      posi: RB
-      cost: 2
-      year: 1
     - name: Brandin Cooks
       posi: WR
       cost: 15
@@ -210,22 +100,10 @@
       posi: WR
       cost: 7
       year: 3
-    - name: Demaryius Thomas
-      posi: WR
-      cost: 7
-      year: 1
-    - name: Julian Edelman
-      posi: WR
-      cost: 7
-      year: 1
     - name: Will Fuller
       posi: WR
       cost: 4
       year: 4
-    - name: Sammy Watkins
-      posi: WR
-      cost: 4
-      year: 1
     - name: Sterling Shepherd
       posi: WR
       cost: 3
@@ -242,74 +120,10 @@
       posi: TE
       cost: 4
       year: 3
-    - name: George Kittle
-      posi: TE
-      cost: 3
-      year: 1
-    - name: Jimmy Garropolo
-      posi: QB
-      cost: 7
-      year: 1
-      drop: true
-    - name: Ryan Tannehill
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Tyrod Taylor
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Nyheim Hines
-      posi: RB
-      cost: 3
-      year: 1
-      drop: true
-    - name: Mike Gillislee
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: Paul Perkins
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Julian Edelman
-      posi: WR
-      cost: 17
-      year: 1
-      drop: true
-    - name: DeSean Jackson
-      posi: WR
-      cost: 2
-      year: 1
-      drop: true
-    - name: Antonio Callaway
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Markus Wheaton
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Greg Olsen
-      posi: TE
-      cost: 5
-      year: 1
-      drop: true
     - name: Coby Fleener
       posi: TE
       cost: 2
       year: 2
-      drop: true
-    - name: Gary Barnidge
-      posi: TE
-      cost: 2
-      year: 1
       drop: true
 - name: Dynasty Warriors IV
   id: dynasty-warriors
@@ -320,15 +134,6 @@
       posi: QB
       cost: 36
       year: 2
-    - name: Ryan Fitzpatrick
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Jordan Howard
-      posi: RB
-      cost: 23
-      year: 1
     - name: Kenyan Drake
       posi: RB
       cost: 15
@@ -337,22 +142,10 @@
       posi: RB
       cost: 12
       year: 3
-    - name: Adrian Peterson
-      posi: RB
-      cost: 8
-      year: 1
     - name: Alex Collins
       posi: RB
       cost: 6
       year: 2
-    - name: Austin Ekeler
-      posi: RB
-      cost: 3
-      year: 1
-    - name: Isaiah Crowell
-      posi: RB
-      cost: 3
-      year: 1
     - name: Keenan Allen
       posi: WR
       cost: 25
@@ -369,14 +162,6 @@
       posi: WR
       cost: 3
       year: 5
-    - name: Devin Funchess
-      posi: WR
-      cost: 3
-      year: 1
-    - name: Pierre Garcon
-      posi: WR
-      cost: 2
-      year: 1
     - name: Kevin White
       posi: WR
       cost: 1
@@ -385,50 +170,10 @@
       posi: WR
       cost: 1
       year: 3
-    - name: Adam Thielen
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Tyler Lockett
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Kelvin Benjamin
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Jimmy Graham
-      posi: TE
-      cost: 5
-      year: 1
-    - name: Austin Hooper
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Ryan Fitzpatrick
-      posi: QB
-      cost: 2
-      year: 1
-      drop: true
     - name: Ameer Abdullah
       posi: RB
       cost: 12
       year: 2
-      drop: true
-    - name: Robert Kelley
-      posi: RB
-      cost: 3
-      year: 1
-      drop: true
-    - name: Corey Clement
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Jacquizz Rodgers
-      posi: RB
-      cost: 1
-      year: 1
       drop: true
     - name: Michael Floyd
       posi: WR
@@ -443,12 +188,8 @@
 - name: Jamaal About That Base
   id: jamaal-about-that-base
   owner: Will Capes
-  cap: 201
+  cap: 200
   roster:
-    - name: Tom Brady
-      posi: QB
-      cost: 3
-      year: 1
     - name: Patrick Mahomes
       posi: QB
       cost: 1
@@ -465,30 +206,10 @@
       posi: RB
       cost: 9
       year: 3
-    - name: Matt Breida
-      posi: RB
-      cost: 8
-      year: 1
-    - name: Peyton Barber
-      posi: RB
-      cost: 3
-      year: 1
-    - name: Doug Martin
-      posi: RB
-      cost: 2
-      year: 1
-    - name: Giovani Bernard
-      posi: RB
-      cost: 2
-      year: 1
     - name: Kalen Ballage
       posi: RB
       cost: 1
       year: 3
-    - name: Josh Gordon
-      posi: WR
-      cost: 7
-      year: 1
     - name: Golden Tate
       posi: WR
       cost: 6
@@ -497,14 +218,6 @@
       posi: WR
       cost: 4
       year: 5
-    - name: Michael Crabtree
-      posi: WR
-      cost: 2
-      year: 1
-    - name: Tyrell Williams
-      posi: WR
-      cost: 2
-      year: 1
     - name: Dante Pettis
       posi: WR
       cost: 1
@@ -513,10 +226,6 @@
       posi: WR
       cost: 1
       year: 2
-    - name: Mohamed Sanu
-      posi: WR
-      cost: 1
-      year: 1
     - name: Rob Gronkowski
       posi: TE
       cost: 41
@@ -525,35 +234,15 @@
       posi: TE
       cost: 1
       year: 3
-    - name: Eli Manning
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
     - name: Eddie Lacy
       posi: RB
       cost: 51
       year: 2
       drop: true
-    - name: Alfred Morris
-      posi: RB
-      cost: 8
-      year: 1
-      drop: true
-    - name: Spencer Ware
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
     - name: Andre Williams
       posi: RB
       cost: 1
       year: 2
-      drop: true
-    - name: Theo Riddick
-      posi: RB
-      cost: 1
-      year: 1
       drop: true
     - name: Randall Cobb
       posi: WR
@@ -566,81 +255,8 @@
   trophies:
     - 2015
     - 2017
-  cap: 215
+  cap: 216
   roster:
-    - name: Jared Goff
-      posi: QB
-      cost: 5
-      year: 1
-    - name: Matthew Stafford
-      posi: QB
-      cost: 3
-      year: 1
-      drop: true
-    - name: Josh Allen
-      posi: QB
-      cost: 2
-      year: 1
-    - name: David Johnson
-      posi: RB
-      cost: 58
-      year: 1
-    - name: Gus Edwards
-      posi: RB
-      cost: 8
-      year: 1
-    - name: Carlos Hyde
-      posi: RB
-      cost: 7
-      year: 1
-    - name: Marlon Mack
-      posi: RB
-      cost: 6
-      year: 1
-    - name: Spencer Ware
-      posi: RB
-      cost: 6
-      year: 1
-    - name: Kerryon Johnson
-      posi: RB
-      cost: 5
-      year: 1
-    - name: Javorius Allen
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Antonio Brown
-      posi: WR
-      cost: 49
-      year: 1
-    - name: Alshon Jeffery
-      posi: WR
-      cost: 26
-      year: 1
-    - name: Allen Robinson
-      posi: WR
-      cost: 9
-      year: 1
-    - name: Chris Hogan
-      posi: WR
-      cost: 6
-      year: 1
-      drop: true
-    - name: Robert Woods
-      posi: WR
-      cost: 6
-      year: 1
-    - name: Quincy Enunwa
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: Albert Wilson
-      posi: WR
-      cost: 2
-      year: 1
-      drop: true
     - name: Josh Doctson
       posi: WR
       cost: 1
@@ -649,47 +265,6 @@
       posi: WR
       cost: 1
       year: 2
-      drop: true
-    - name: Kenny Golladay
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Kenny Stills
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Travis Kelce
-      posi: TE
-      cost: 8
-      year: 1
-    - name: Trey Burton
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Jameis Winston
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Bilal Powell
-      posi: RB
-      cost: 5
-      year: 1
-      drop: true
-    - name: Rex Burkhead
-      posi: RB
-      cost: 3
-      year: 1
-      drop: true
-    - name: Jamaal Williams
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: C.J. Prosise
-      posi: RB
-      cost: 1
-      year: 1
       drop: true
     - name: Corey Coleman
       posi: WR
@@ -701,40 +276,19 @@
       cost: 1
       year: 2
       drop: true
-    - name: Dez Bryant
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
 - name: London Lizards
   id: london-lizards
   owner: Dominic Noble
-  cap: 166
+  cap: 189
   roster:
     - name: Cam Newton
       posi: QB
       cost: 2
       year: 2
-    - name: Kirk Cousins
-      posi: QB
-      cost: 2
-      year: 1
-    - name: Ben Roethlisberger
-      posi: QB
-      cost: 1
-      year: 1
-    - name: LeSean McCoy
-      posi: RB
-      cost: 28
-      year: 1
     - name: Devonta Freeman
       posi: RB
       cost: 25
       year: 3
-    - name: Mark Ingram
-      posi: RB
-      cost: 20
-      year: 1
     - name: Alvin Kamara
       posi: RB
       cost: 14
@@ -747,30 +301,14 @@
       posi: RB
       cost: 5
       year: 3
-    - name: Chris Thompson
-      posi: RB
-      cost: 2
-      year: 1
     - name: Michael Thomas
       posi: WR
       cost: 9
       year: 3
-    - name: Jordy Nelson
-      posi: WR
-      cost: 9
-      year: 1
-    - name: Randall Cobb
-      posi: WR
-      cost: 5
-      year: 1
     - name: Anthony Miller
       posi: WR
       cost: 3
       year: 4
-    - name: Dez Bryant
-      posi: WR
-      cost: 2
-      year: 1
     - name: James Washington
       posi: WR
       cost: 1
@@ -783,52 +321,14 @@
       posi: WR
       cost: 1
       year: 2
-    - name: DeSean Jackson
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Jared Cook
-      posi: TE
-      cost: 2
-      year: 1
     - name: Zach Ertz
       posi: TE
       cost: 1
       year: 2
-    - name: Dak Prescott
-      posi: QB
-      cost: 4
-      year: 1
-      drop: true
     - name: C.J. Anderson
       posi: RB
       cost: 14
       year: 2
-      drop: true
-    - name: Joseph Randle
-      posi: RB
-      cost: 6
-      year: 1
-      drop: true
-    - name: DeVante Parker
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: John Brown
-      posi: WR
-      cost: 2
-      year: 1
-      drop: true
-    - name: Geronimo Allison
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Jason Witten
-      posi: TE
-      cost: 1
-      year: 1
       drop: true
 - name: Oxford White Sharks
   id: oxford-white-sharks
@@ -837,14 +337,6 @@
     - 2018
   cap: 200
   roster:
-    - name: Deshaun Watson
-      posi: QB
-      cost: 7
-      year: 1
-    - name: Matt Ryan
-      posi: QB
-      cost: 6
-      year: 1
     - name: Lamar Jackson
       posi: QB
       cost: 1
@@ -853,115 +345,18 @@
       posi: RB
       cost: 37
       year: 2
-    - name: Todd Gurley
-      posi: RB
-      cost: 30
-      year: 1
     - name: Christian McCaffrey
       posi: RB
       cost: 17
       year: 3
-    - name: Lamar Miller
-      posi: RB
-      cost: 8
-      year: 1
-    - name: Damien Williams
-      posi: RB
-      cost: 5
-      year: 1
-    - name: Elijah McGuire
-      posi: RB
-      cost: 3
-      year: 1
-    - name: Julio Jones
-      posi: WR
-      cost: 35
-      year: 1
-    - name: A.J. Green
-      posi: WR
-      cost: 20
-      year: 1
     - name: Amari Cooper
       posi: WR
       cost: 11
       year: 2
-    - name: Larry Fitzgerald
-      posi: WR
-      cost: 6
-      year: 1
-    - name: Eric Ebron
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Marshawn Lynch
-      posi: RB
-      cost: 3
-      year: 1
-      drop: true
-    - name: LeGarrette Blount
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: Devontae Booker
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
     - name: Martavis Bryant
       posi: WR
       cost: 4
       year: 2
-      drop: true
-    - name: Robby Anderson
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: John Brown
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: Donte Moncrief
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Jaelen Strong
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Rishard Matthews
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Jack Doyle
-      posi: TE
-      cost: 2
-      year: 1
-      drop: true
-    - name: Charles Clay
-      posi: TE
-      cost: 1
-      year: 1
-      drop: true
-    - name: Tyler Eifert
-      posi: TE
-      cost: 1
-      year: 1
-      drop: true
-    - name: Greg Olsen
-      posi: TE
-      cost: 1
-      year: 1
-      drop: true
-    - name: Jordan Reed
-      posi: TE
-      cost: 1
-      year: 1
       drop: true
 - name: Team HGH
   id: team-hgh
@@ -974,10 +369,6 @@
       posi: QB
       cost: 20
       year: 2
-    - name: Derek Carr
-      posi: QB
-      cost: 10
-      year: 1
     - name: Carson Wentz
       posi: QB
       cost: 7
@@ -990,60 +381,18 @@
       posi: RB
       cost: 13
       year: 3
-    - name: Phillip Lindsay
-      posi: RB
-      cost: 8
-      year: 1
-    - name: Jaylen Samuels
-      posi: RB
-      cost: 5
-      year: 1
     - name: Chris Carson
       posi: RB
       cost: 3
       year: 2
-    - name: Thomas Rawls
-      posi: RB
-      cost: 3
-      year: 1
-      drop: true
-    - name: Duke Johnson Jr.
-      posi: RB
-      cost: 2
-      year: 1
     - name: Tarik Cohen
       posi: RB
       cost: 1
       year: 3
-    - name: Mike Evans
-      posi: WR
-      cost: 28
-      year: 1
-    - name: JuJu Smith-Schuster
-      posi: WR
-      cost: 13
-      year: 1
-    - name: Jordan Matthews
-      posi: WR
-      cost: 9
-      year: 1
     - name: Tyreek Hill
       posi: WR
       cost: 8
       year: 2
-    - name: Emmanuel Sanders
-      posi: WR
-      cost: 5
-      year: 1
-    - name: Allen Hurns
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: Adam Humphries
-      posi: WR
-      cost: 3
-      year: 1
     - name: Christian Kirk
       posi: WR
       cost: 2
@@ -1056,24 +405,6 @@
       posi: WR
       cost: 2
       year: 2
-    - name: Marqise Lee
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Evan Engram
-      posi: TE
-      cost: 1
-      year: 1
-      drop: true
-    - name: Chris Herndon
-      posi: TE
-      cost: 5
-      year: 1
-    - name: Jeremy Hill
-      posi: RB
-      cost: 33
-      year: 1
-      drop: true
     - name: Samaje Perine
       posi: RB
       cost: 1
