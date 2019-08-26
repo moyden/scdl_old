@@ -84,14 +84,6 @@
       posi: RB
       cost: 10
       year: 2
-    - name: Jay Ajayi
-      posi: RB
-      cost: 5
-      year: 1
-    - name: Jamaal Williams
-      posi: RB
-      cost: 4
-      year: 1
     - name: Brandin Cooks
       posi: WR
       cost: 15
@@ -112,14 +104,25 @@
       posi: WR
       cost: 3
       year: 1
-    - name: John Ross
-      posi: WR
-      cost: 2
-      year: 2
     - name: David Njoku
       posi: TE
       cost: 4
       year: 2
+    - name: Jay Ajayi
+      posi: RB
+      cost: 5
+      year: 1
+      drop: true
+    - name: Jamaal Williams
+      posi: RB
+      cost: 4
+      year: 1
+      drop: true
+    - name: John Ross
+      posi: WR
+      cost: 2
+      year: 2
+      drop: true
     - name: Coby Fleener
       posi: TE
       cost: 2
@@ -130,21 +133,9 @@
   owner: Richard Parkin
   cap: 200
   roster:
-    - name: Andrew Luck
-      posi: QB
-      cost: 36
-      year: 1
     - name: Kenyan Drake
       posi: RB
       cost: 15
-      year: 1
-    - name: Jerick McKinnon
-      posi: RB
-      cost: 12
-      year: 2
-    - name: Alex Collins
-      posi: RB
-      cost: 6
       year: 1
     - name: Keenan Allen
       posi: WR
@@ -153,10 +144,6 @@
     - name: T.Y. Hilton
       posi: WR
       cost: 17
-      year: 2
-    - name: Doug Baldwin
-      posi: WR
-      cost: 15
       year: 2
     - name: Calvin Ridley
       posi: WR
@@ -170,11 +157,30 @@
       posi: WR
       cost: 1
       year: 2
+    - name: Andrew Luck
+      posi: QB
+      cost: 36
+      year: 1
+      drop: true
+    - name: Jerick McKinnon
+      posi: RB
+      cost: 12
+      year: 2
+      drop: true
     - name: Ameer Abdullah
       posi: RB
       cost: 12
       year: 1
       drop: true
+    - name: Alex Collins
+      posi: RB
+      cost: 6
+      year: 1
+      drop: true
+    - name: Doug Baldwin
+      posi: WR
+      cost: 15
+      year: 2
     - name: Michael Floyd
       posi: WR
       cost: 3
@@ -226,10 +232,6 @@
       posi: WR
       cost: 1
       year: 1
-    - name: Rob Gronkowski
-      posi: TE
-      cost: 41
-      year: 1
     - name: Mike Gesicki
       posi: TE
       cost: 1
@@ -249,6 +251,11 @@
       cost: 35
       year: 1
       drop: true
+    - name: Rob Gronkowski
+      posi: TE
+      cost: 41
+      year: 1
+      drop: true
 - name: LOL Boys
   id: lol-boys
   owner: Luke Carlisle
@@ -261,6 +268,7 @@
       posi: WR
       cost: 1
       year: 1
+      drop: true
     - name: Kelvin Benjamin
       posi: WR
       cost: 1
