@@ -181,6 +181,7 @@
       posi: WR
       cost: 15
       year: 2
+      drop: true
     - name: Michael Floyd
       posi: WR
       cost: 3
