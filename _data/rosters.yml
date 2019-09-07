@@ -209,6 +209,10 @@
       posi: QB
       cost: 3
       year: 5
+    - name: Jameis Winston
+      posi: QB
+      cost: 1
+      year: 1
     - name: Josh Jacobs
       posi: RB
       cost: 25
@@ -269,10 +273,6 @@
       posi: WR
       cost: 1
       year: 3
-    - name: Laquon Treadwell
-      posi: WR
-      cost: 1
-      year: 2
     - name: Marquise Brown
       posi: WR
       cost: 1
@@ -313,6 +313,11 @@
     - name: Michael Floyd
       posi: WR
       cost: 3
+      year: 2
+      drop: true
+    - name: Laquon Treadwell
+      posi: WR
+      cost: 1
       year: 2
       drop: true
     - name: Jamison Crowder
