@@ -490,6 +490,10 @@
       posi: WR
       cost: 2
       year: 1
+    - name: A.J. Brown
+      posi: WR
+      cost: 1
+      year: 2
     - name: George Kittle
       posi: TE
       cost: 28
