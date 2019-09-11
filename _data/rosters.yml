@@ -136,6 +136,10 @@
       posi: RB
       cost: 3
       year: 4
+    - name: Adrian Peterson
+      posi: RB
+      cost: 3
+      year: 1
     - name: Dion Lewis
       posi: RB
       cost: 1
@@ -366,9 +370,14 @@
       posi: RB
       cost: 1
       year: 2
+      drop: true
     - name: Kenny Golladay
       posi: WR
       cost: 18
+      year: 1
+    - name: Tyrell Williams
+      posi: WR
+      cost: 8
       year: 1
     - name: Chris Godwin
       posi: WR
@@ -639,6 +648,10 @@
       posi: RB
       cost: 17
       year: 2
+    - name: Malcolm Brown
+      posi: RB
+      cost: 9
+      year: 1
     - name: Jordan Howard
       posi: RB
       cost: 5
@@ -768,6 +781,10 @@
       cost: 2
       year: 2
     - name: Cooper Kupp
+      posi: WR
+      cost: 2
+      year: 1
+    - name: John Ross III
       posi: WR
       cost: 2
       year: 1
