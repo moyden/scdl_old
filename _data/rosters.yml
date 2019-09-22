@@ -140,10 +140,6 @@
       posi: RB
       cost: 3
       year: 1
-    - name: Dion Lewis
-      posi: RB
-      cost: 1
-      year: 1
     - name: Robert Woods
       posi: WR
       cost: 19
@@ -194,6 +190,11 @@
       cost: 4
       year: 1
       drop: true
+    - name: Dion Lewis
+      posi: RB
+      cost: 1
+      year: 1
+      drop: true
     - name: John Ross
       posi: WR
       cost: 2
@@ -204,7 +205,7 @@
       cost: 2
       year: 1
       drop: true
-- name: Dynasty Warriors IV
+- name: Dynasty Warriors V
   id: dynasty-warriors
   owner: Richard Parkin
   cap: 200
@@ -403,10 +404,6 @@
       posi: WR
       cost: 1
       year: 1
-    - name: Donte Moncrief
-      posi: WR
-      cost: 1
-      year: 1
     - name: JJ Arcega-Whiteside
       posi: WR
       cost: 1
@@ -432,6 +429,11 @@
     - name: Randall Cobb
       posi: WR
       cost: 35
+      year: 1
+      drop: true
+    - name: Donte Moncrief
+      posi: WR
+      cost: 1
       year: 1
       drop: true
     - name: Rob Gronkowski
@@ -548,6 +550,10 @@
       posi: QB
       cost: 1
       year: 5
+    - name: Mason Rudolph
+      posi: QB
+      cost: 1
+      year: 1
     - name: Todd Gurley II
       posi: RB
       cost: 35
@@ -604,10 +610,6 @@
       posi: WR
       cost: 1
       year: 3
-    - name: Willie Snead
-      posi: WR
-      cost: 1
-      year: 1
     - name: Zach Ertz
       posi: TE
       cost: 1
@@ -619,6 +621,11 @@
     - name: C.J. Anderson
       posi: RB
       cost: 14
+      year: 1
+      drop: true
+    - name: Willie Snead
+      posi: WR
+      cost: 1
       year: 1
       drop: true
 - name: Oxford White Sharks
