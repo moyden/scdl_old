@@ -1,28 +1,28 @@
 - name: Colorado Pony Hospital
   id: colorado-pony-hospital
   owner: Joseph Moyden
-  cap: 195
+  cap: 217
   roster:
     - name: Jared Goff
       posi: QB
       cost: 2
       year: 3
-    - name: Philip Rivers
-      posi: QB
-      cost: 1
-      year: 1
     - name: Dak Prescott
       posi: QB
       cost: 1
       year: 1
-    - name: Leonard Fournette
+    - name: Devonta Freeman
       posi: RB
-      cost: 20
+      cost: 25
       year: 2
     - name: Melvin Gordon
       posi: RB
       cost: 20
       year: 4
+    - name: Leonard Fournette
+      posi: RB
+      cost: 20
+      year: 2
     - name: Miles Sanders
       posi: RB
       cost: 19
@@ -36,6 +36,14 @@
       cost: 5
       year: 3
     - name: Carlos Hyde
+      posi: RB
+      cost: 1
+      year: 1
+    - name: Jaylen Samuels
+      posi: RB
+      cost: 1
+      year: 1
+    - name: Frank Gore
       posi: RB
       cost: 1
       year: 1
@@ -59,14 +67,6 @@
       posi: WR
       cost: 5
       year: 2
-    - name: Courtland Sutton
-      posi: WR
-      cost: 2
-      year: 3
-    - name: Trey Burton
-      posi: TE
-      cost: 4
-      year: 1
     - name: Noah Fant
       posi: TE
       cost: 2
@@ -75,6 +75,10 @@
       posi: TE
       cost: 1
       year: 3
+    - name: Darren Waller
+      posi: TE
+      cost: 1
+      year: 1
     - name: Marcus Mariota
       posi: QB
       cost: 5
@@ -93,6 +97,11 @@
     - name: Ronald Jones
       posi: RB
       cost: 8
+      year: 1
+      drop: true
+    - name: Trey Burton
+      posi: TE
+      cost: 4
       year: 1
       drop: true
 - name: Dillon Panthers
@@ -128,14 +137,14 @@
       posi: RB
       cost: 10
       year: 2
-    - name: James White
-      posi: RB
-      cost: 3
-      year: 2
     - name: Damien Harris
       posi: RB
       cost: 3
       year: 4
+    - name: James White
+      posi: RB
+      cost: 3
+      year: 2
     - name: Adrian Peterson
       posi: RB
       cost: 3
@@ -246,6 +255,10 @@
       posi: WR
       cost: 17
       year: 2
+    - name: DK Metcalf
+      posi: WR
+      cost: 6
+      year: 5
     - name: Allen Robinson
       posi: WR
       cost: 6
@@ -254,10 +267,6 @@
       posi: WR
       cost: 6
       year: 1
-    - name: DK Metcalf
-      posi: WR
-      cost: 6
-      year: 5
     - name: Calvin Ridley
       posi: WR
       cost: 3
@@ -274,14 +283,14 @@
       posi: WR
       cost: 2
       year: 1
-    - name: Kevin White
-      posi: WR
-      cost: 1
-      year: 3
     - name: Marquise Brown
       posi: WR
       cost: 1
       year: 5
+    - name: Kevin White
+      posi: WR
+      cost: 1
+      year: 3
     - name: Vance McDonald
       posi: TE
       cost: 5
@@ -339,10 +348,6 @@
       posi: QB
       cost: 1
       year: 1
-    - name: Kirk Cousins
-      posi: QB
-      cost: 1
-      year: 1
     - name: Saquon Barkley
       posi: RB
       cost: 40
@@ -367,11 +372,10 @@
       posi: RB
       cost: 2
       year: 3
-    - name: Kalen Ballage
+    - name: Wayne Gallman
       posi: RB
       cost: 1
-      year: 2
-      drop: true
+      year: 1
     - name: Kenny Golladay
       posi: WR
       cost: 18
@@ -396,6 +400,10 @@
       posi: WR
       cost: 2
       year: 3
+    - name: JJ Arcega-Whiteside
+      posi: WR
+      cost: 1
+      year: 4
     - name: Dante Pettis
       posi: WR
       cost: 1
@@ -404,10 +412,10 @@
       posi: WR
       cost: 1
       year: 1
-    - name: JJ Arcega-Whiteside
-      posi: WR
-      cost: 1
-      year: 4
+    - name: Mark Andrews
+      posi: TE
+      cost: 3
+      year: 1
     - name: Mike Gesicki
       posi: TE
       cost: 1
@@ -416,10 +424,20 @@
       posi: TE
       cost: 1
       year: 1
+    - name: Kirk Cousins
+      posi: QB
+      cost: 1
+      year: 1
+      drop: true
     - name: Eddie Lacy
       posi: RB
       cost: 51
       year: 1
+      drop: true
+    - name: Kalen Ballage
+      posi: RB
+      cost: 1
+      year: 2
       drop: true
     - name: Andre Williams
       posi: RB
@@ -536,7 +554,7 @@
 - name: London Lizards
   id: london-lizards
   owner: Dominic Noble
-  cap: 189
+  cap: 167
   roster:
     - name: Drew Brees
       posi: QB
@@ -550,7 +568,11 @@
       posi: QB
       cost: 1
       year: 5
-    - name: Mason Rudolph
+    - name: Philip Rivers
+      posi: QB
+      cost: 1
+      year: 1
+    - name: Gardner Minshew II
       posi: QB
       cost: 1
       year: 1
@@ -558,10 +580,6 @@
       posi: RB
       cost: 35
       year: 1
-    - name: Devonta Freeman
-      posi: RB
-      cost: 25
-      year: 2
     - name: Mark Ingram II
       posi: RB
       cost: 17
@@ -602,6 +620,14 @@
       posi: WR
       cost: 3
       year: 2
+    - name: Courtland Sutton
+      posi: WR
+      cost: 2
+      year: 3
+    - name: Demarcus Robinson
+      posi: WR
+      cost: 2
+      year: 1
     - name: James Washington
       posi: WR
       cost: 1
@@ -618,6 +644,11 @@
       posi: TE
       cost: 1
       year: 1
+    - name: Mason Rudolph
+      posi: QB
+      cost: 1
+      year: 1
+      drop: true
     - name: C.J. Anderson
       posi: RB
       cost: 14
@@ -655,10 +686,6 @@
       posi: RB
       cost: 17
       year: 2
-    - name: Malcolm Brown
-      posi: RB
-      cost: 9
-      year: 1
     - name: Jordan Howard
       posi: RB
       cost: 5
@@ -703,6 +730,14 @@
       posi: WR
       cost: 1
       year: 1
+    - name: Terry McLaurin
+      posi: WR
+      cost: 1
+      year: 1
+    - name: DJ Chark Jr.
+      posi: WR
+      cost: 1
+      year: 1
     - name: Hunter Henry
       posi: TE
       cost: 6
@@ -711,6 +746,15 @@
       posi: TE
       cost: 3
       year: 5
+    - name: Will Dissly
+      posi: TE
+      cost: 3
+      year: 1
+    - name: Malcolm Brown
+      posi: RB
+      cost: 9
+      year: 1
+      drop: true
     - name: Martavis Bryant
       posi: WR
       cost: 4
