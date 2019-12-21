@@ -39,10 +39,6 @@
       posi: RB
       cost: 1
       year: 1
-    - name: Jaylen Samuels
-      posi: RB
-      cost: 1
-      year: 1
     - name: Frank Gore
       posi: RB
       cost: 1
@@ -67,6 +63,10 @@
       posi: WR
       cost: 5
       year: 2
+    - name: Allen Lazard
+      posi: WR
+      cost: 1
+      year: 1
     - name: Noah Fant
       posi: TE
       cost: 2
@@ -97,6 +97,11 @@
     - name: Ronald Jones
       posi: RB
       cost: 8
+      year: 1
+      drop: true
+    - name: Jaylen Samuels
+      posi: RB
+      cost: 1
       year: 1
       drop: true
     - name: Trey Burton
@@ -188,6 +193,10 @@
     - name: Jared Cook
       posi: TE
       cost: 2
+      year: 1
+    - name: Dawson Knox
+      posi: TE
+      cost: 1
       year: 1
     - name: Jay Ajayi
       posi: RB
@@ -348,6 +357,10 @@
       posi: QB
       cost: 1
       year: 1
+    - name: Jeff Driskel
+      posi: QB
+      cost: 1
+      year: 1
     - name: Saquon Barkley
       posi: RB
       cost: 40
@@ -372,7 +385,11 @@
       posi: RB
       cost: 2
       year: 3
-    - name: Wayne Gallman
+    - name: Jamaal Williams
+      posi: RB
+      cost: 2
+      year: 1
+    - name: Bo Scarbrough
       posi: RB
       cost: 1
       year: 1
@@ -404,10 +421,6 @@
       posi: WR
       cost: 1
       year: 4
-    - name: Dante Pettis
-      posi: WR
-      cost: 1
-      year: 2
     - name: Tyler Boyd
       posi: WR
       cost: 1
@@ -444,10 +457,20 @@
       cost: 1
       year: 1
       drop: true
+    - name: Wayne Gallman
+      posi: RB
+      cost: 1
+      year: 1
+      drop: true
     - name: Randall Cobb
       posi: WR
       cost: 35
       year: 1
+      drop: true
+    - name: Dante Pettis
+      posi: WR
+      cost: 1
+      year: 2
       drop: true
     - name: Donte Moncrief
       posi: WR
@@ -471,6 +494,14 @@
       posi: QB
       cost: 11
       year: 3
+    - name: Jacoby Brissett
+      posi: QB
+      cost: 1
+      year: 1
+    - name: Kirk Cousins
+      posi: QB
+      cost: 1
+      year: 1
     - name: David Johnson
       posi: RB
       cost: 42
@@ -483,6 +514,10 @@
       posi: RB
       cost: 8
       year: 2
+    - name: Chase Edmonds
+      posi: RB
+      cost: 5
+      year: 1
     - name: Justin Jackson
       posi: RB
       cost: 2
@@ -507,15 +542,15 @@
       posi: WR
       cost: 26
       year: 2
-    - name: Josh Gordon
-      posi: WR
-      cost: 14
-      year: 1
     - name: Marvin Jones Jr.
       posi: WR
       cost: 7
       year: 1
     - name: Keke Coutee
+      posi: WR
+      cost: 2
+      year: 1
+    - name: Auden Tate
       posi: WR
       cost: 2
       year: 1
@@ -531,6 +566,15 @@
       posi: TE
       cost: 5
       year: 2
+    - name: Darren Fells
+      posi: TE
+      cost: 2
+      year: 1
+    - name: Josh Gordon
+      posi: WR
+      cost: 14
+      year: 1
+      drop: true
     - name: Josh Doctson
       posi: WR
       cost: 1
@@ -596,9 +640,9 @@
       posi: RB
       cost: 5
       year: 2
-    - name: Antonio Brown
-      posi: WR
-      cost: 29
+    - name: Jaylen Samuels
+      posi: RB
+      cost: 2
       year: 1
     - name: Julian Edelman
       posi: WR
@@ -624,10 +668,6 @@
       posi: WR
       cost: 2
       year: 3
-    - name: Demarcus Robinson
-      posi: WR
-      cost: 2
-      year: 1
     - name: James Washington
       posi: WR
       cost: 1
@@ -640,9 +680,9 @@
       posi: TE
       cost: 1
       year: 1
-    - name: Delanie Walker
+    - name: Jimmy Graham
       posi: TE
-      cost: 1
+      cost: 2
       year: 1
     - name: Mason Rudolph
       posi: QB
@@ -654,8 +694,23 @@
       cost: 14
       year: 1
       drop: true
+    - name: Antonio Brown
+      posi: WR
+      cost: 29
+      year: 1
+      drop: true
+    - name: Demarcus Robinson
+      posi: WR
+      cost: 2
+      year: 1
+      drop: true
     - name: Willie Snead
       posi: WR
+      cost: 1
+      year: 1
+      drop: true
+    - name: Delanie Walker
+      posi: TE
       cost: 1
       year: 1
       drop: true
@@ -735,6 +790,10 @@
       cost: 1
       year: 1
     - name: DJ Chark Jr.
+      posi: WR
+      cost: 1
+      year: 1
+    - name: DeVante Parker
       posi: WR
       cost: 1
       year: 1
