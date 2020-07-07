@@ -761,6 +761,10 @@
       posi: RB
       cost: 17
       year: 2
+    - name: Raheem Mostert
+      posi: RB
+      cost: 9
+      year: 2
     - name: Jordan Howard
       posi: RB
       cost: 5
@@ -777,10 +781,6 @@
       posi: RB
       cost: 1
       year: 1
-    - name: Raheem Mostert
-      posi: RB
-      cost: 9
-      year: 2
     - name: Julio Jones
       posi: WR
       cost: 33
