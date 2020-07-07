@@ -1,6 +1,8 @@
 - name: Colorado Pony Hospital
   id: colorado-pony-hospital
   owner: Joseph Moyden
+  trophies:
+    - 2019
   cap: 217
   roster:
     - name: Jared Goff
@@ -35,6 +37,10 @@
       posi: RB
       cost: 5
       year: 3
+    - name: Alexander Mattison
+      posi: RB
+      cost: 3
+      year: 1
     - name: Carlos Hyde
       posi: RB
       cost: 1
@@ -55,10 +61,6 @@
       posi: WR
       cost: 12
       year: 1
-    - name: Corey Davis
-      posi: WR
-      cost: 5
-      year: 2
     - name: Jarvis Landry
       posi: WR
       cost: 5
@@ -103,6 +105,11 @@
       posi: RB
       cost: 1
       year: 1
+      drop: true
+    - name: Corey Davis
+      posi: WR
+      cost: 5
+      year: 2
       drop: true
     - name: Trey Burton
       posi: TE
@@ -244,6 +251,10 @@
       posi: RB
       cost: 15
       year: 1
+    - name: Mike Boone
+      posi: RB
+      cost: 13
+      year: 1
     - name: Tevin Coleman
       posi: RB
       cost: 10
@@ -296,14 +307,13 @@
       posi: WR
       cost: 1
       year: 5
-    - name: Kevin White
+    - name: Breshad Perriman
+      posi: WR
+      cost: 1
+      year: 1
       posi: WR
       cost: 1
       year: 3
-    - name: Vance McDonald
-      posi: TE
-      cost: 5
-      year: 1
     - name: Austin Hooper
       posi: TE
       cost: 2
@@ -338,6 +348,11 @@
       cost: 3
       year: 2
       drop: true
+    - name: Kevin White
+      posi: WR
+      cost: 1
+      year: 3
+      drop: true
     - name: Laquon Treadwell
       posi: WR
       cost: 1
@@ -346,6 +361,11 @@
     - name: Jamison Crowder
       posi: WR
       cost: 1
+      year: 1
+      drop: true
+    - name: Vance McDonald
+      posi: TE
+      cost: 5
       year: 1
       drop: true
 - name: Jamaal About That Base
@@ -749,15 +769,15 @@
       posi: RB
       cost: 5
       year: 1
-    - name: Peyton Barber
-      posi: RB
-      cost: 3
-      year: 1
     - name: Ronald Jones
       posi: RB
       cost: 1
       year: 2
     - name: Tony Pollard
+      posi: RB
+      cost: 1
+      year: 1
+    - name: Raheem Mostert
       posi: RB
       cost: 1
       year: 1
@@ -812,6 +832,11 @@
     - name: Malcolm Brown
       posi: RB
       cost: 9
+      year: 1
+      drop: true
+    - name: Peyton Barber
+      posi: RB
+      cost: 3
       year: 1
       drop: true
     - name: Martavis Bryant
