@@ -193,6 +193,10 @@
       posi: WR
       cost: 1
       year: 5
+    - name: Terry McLaurin
+      posi: WR
+      cost: 1
+      year: 1
     - name: David Njoku
       posi: TE
       cost: 4
@@ -802,10 +806,6 @@
       cost: 4
       year: 1
     - name: John Brown
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Terry McLaurin
       posi: WR
       cost: 1
       year: 1
