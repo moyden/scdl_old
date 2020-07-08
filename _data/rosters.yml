@@ -57,10 +57,14 @@
       posi: WR
       cost: 27
       year: 1
-    - name: Davante Adams
+    - name: Kenny Golladay
       posi: WR
-      cost: 12
-      year: 1
+      cost: 26
+      year: 2
+    - name: Chris Godwin
+      posi: WR
+      cost: 15
+      year: 2
     - name: Jarvis Landry
       posi: WR
       cost: 5
@@ -77,10 +81,6 @@
       posi: TE
       cost: 1
       year: 3
-    - name: Darren Waller
-      posi: TE
-      cost: 1
-      year: 1
     - name: Marcus Mariota
       posi: QB
       cost: 5
@@ -417,17 +417,13 @@
       posi: RB
       cost: 1
       year: 1
-    - name: Kenny Golladay
+    - name: Davante Adams
       posi: WR
-      cost: 18
-      year: 1
+      cost: 20
+      year: 2
     - name: Tyrell Williams
       posi: WR
       cost: 8
-      year: 1
-    - name: Chris Godwin
-      posi: WR
-      cost: 7
       year: 1
     - name: Golden Tate
       posi: WR
@@ -449,6 +445,10 @@
       posi: WR
       cost: 1
       year: 1
+    - name: Darren Waller
+      posi: TE
+      cost: 9
+      year: 2
     - name: Mark Andrews
       posi: TE
       cost: 3
