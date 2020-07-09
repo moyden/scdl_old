@@ -193,10 +193,10 @@
       posi: WR
       cost: 1
       year: 5
-    - name: Terry McLaurin
-      posi: WR
-      cost: 1
-      year: 1
+    - name: Mark Andrews
+      posi: TE
+      cost: 11
+      year: 2
     - name: David Njoku
       posi: TE
       cost: 4
@@ -421,6 +421,10 @@
       posi: WR
       cost: 20
       year: 2
+    - name: Terry McLaurin
+      posi: WR
+      cost: 9
+      year: 2
     - name: Tyrell Williams
       posi: WR
       cost: 8
@@ -449,10 +453,6 @@
       posi: TE
       cost: 9
       year: 2
-    - name: Mark Andrews
-      posi: TE
-      cost: 3
-      year: 1
     - name: Mike Gesicki
       posi: TE
       cost: 1
