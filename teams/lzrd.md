@@ -1,6 +1,6 @@
 ---
 layout: teampage
-permalink: /london-lizards
-team: london-lizards
+permalink: /lower-clapton-lizards
+team: lower-clapton-lizards
 espnID: 7
 ---
