@@ -520,6 +520,10 @@
       posi: QB
       cost: 1
       year: 4
+    - name: Matt Ryan
+      posi: QB
+      cost: 1
+      year: 
     - name: Ezekiel Elliott
       posi: RB
       cost: 40
