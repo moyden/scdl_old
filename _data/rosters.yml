@@ -13,10 +13,6 @@
       posi: QB
       cost: 2
       year: 1
-    - name: Jared Goff
-      posi: QB
-      cost: 2
-      year: 2
     - name: Melvin Gordon
       posi: RB
       cost: 20
@@ -37,14 +33,14 @@
       posi: RB
       cost: 5
       year: 2
-    - name: Matt Breida
-      posi: RB
-      cost: 2
-      year: 1
     - name: Anthony McFarland Jr.
       posi: RB
       cost: 1
       year: 3
+    - name: Benny Snell Jr.
+      posi: RB
+      cost: 1
+      year: 1
     - name: Kenny Golladay
       posi: WR
       cost: 26
@@ -73,6 +69,14 @@
       posi: WR
       cost: 1
       year: 4
+    - name: Corey Davis
+      posi: WR
+      cost: 1
+      year: 1
+    - name: Emmanuel Sanders
+      posi: WR
+      cost: 1
+      year: 1
     - name: Noah Fant
       posi: TE
       cost: 2
@@ -95,9 +99,19 @@
       cost: 3
       year: 1
       drop: true
+    - name: Jared Goff
+      posi: QB
+      cost: 2
+      year: 2
+      drop: true
     - name: Devonta Freeman
       posi: RB
       cost: 25
+      year: 1
+      drop: true
+    - name: Matt Breida
+      posi: RB
+      cost: 2
       year: 1
       drop: true
     - name: Corey Davis
@@ -110,10 +124,6 @@
   owner: James Spayne
   cap: 190
   roster:
-    - name: Baker Mayfield
-      posi: QB
-      cost: 6
-      year: 2
     - name: Dak Prescott
       posi: QB
       cost: 4
@@ -137,6 +147,14 @@
     - name: Sony Michel
       posi: RB
       cost: 11
+      year: 1
+    - name: Myles Gaskin
+      posi: RB
+      cost: 7
+      year: 2
+    - name: Devonta Freeman
+      posi: RB
+      cost: 4
       year: 1
     - name: Damien Harris
       posi: RB
@@ -162,10 +180,6 @@
       posi: WR
       cost: 6
       year: 1
-    - name: Brandin Cooks
-      posi: WR
-      cost: 6
-      year: 1
     - name: N'Keal Harry
       posi: WR
       cost: 5
@@ -186,7 +200,7 @@
       posi: WR
       cost: 1
       year: 4
-    - name: Van Jefferson
+    - name: Sammy Watkins
       posi: WR
       cost: 1
       year: 1
@@ -194,9 +208,24 @@
       posi: TE
       cost: 11
       year: 1
+    - name: Baker Mayfield
+      posi: QB
+      cost: 6
+      year: 2
+      drop: true
     - name: Royce Freeman
       posi: RB
       cost: 10
+      year: 1
+      drop: true
+    - name: Brandin Cooks
+      posi: WR
+      cost: 6
+      year: 1
+      drop: true
+    - name: Marquez Valdes-Scantling
+      posi: WR
+      cost: 4
       year: 1
       drop: true
     - name: Sterling Shepherd
@@ -207,6 +236,16 @@
     - name: John Ross
       posi: WR
       cost: 2
+      year: 1
+      drop: true
+    - name: Van Jefferson
+      posi: WR
+      cost: 1
+      year: 1
+      drop: true
+    - name: Deonte Harris
+      posi: WR
+      cost: 1
       year: 1
       drop: true
     - name: David Njoku
@@ -235,7 +274,7 @@
       posi: RB
       cost: 25
       year: 2
-    - name: Todd Gurley
+    - name: Todd Gurley II
       posi: RB
       cost: 12
       year: 3
@@ -333,13 +372,13 @@
       posi: QB
       cost: 11
       year: 1
-    - name: Matthew Stafford
-      posi: QB
-      cost: 1
-      year: 1
-    - name: Saquon Barkley
+    - name: Malcolm Brown
       posi: RB
-      cost: 40
+      cost: 12
+      year: 1
+    - name: Mike Davis
+      posi: RB
+      cost: 10
       year: 1
     - name: Rashaad Penny
       posi: RB
@@ -381,10 +420,10 @@
       posi: WR
       cost: 8
       year: 4
-    - name: Michael Pittman Jr.
+    - name: Allen Lazard
       posi: WR
-      cost: 6
-      year: 2
+      cost: 5
+      year: 1
     - name: DJ Moore
       posi: WR
       cost: 4
@@ -409,10 +448,25 @@
       posi: TE
       cost: 1
       year: 1
+    - name: Matthew Stafford
+      posi: QB
+      cost: 1
+      year: 1
+      drop: true
+    - name: Saquon Barkley
+      posi: RB
+      cost: 40
+      year: 1
+      drop: true
     - name: Kalen Ballage
       posi: RB
       cost: 1
       year: 1
+      drop: true
+    - name: Michael Pittman Jr.
+      posi: WR
+      cost: 6
+      year: 2
       drop: true
     - name: Dante Pettis
       posi: WR
@@ -439,10 +493,6 @@
       posi: RB
       cost: 42
       year: 1
-    - name: Kerryon Johnson
-      posi: RB
-      cost: 25
-      year: 1
     - name: Chris Carson
       posi: RB
       cost: 18
@@ -458,6 +508,10 @@
     - name: Mark Ingram II
       posi: RB
       cost: 7
+      year: 1
+    - name: Adrian Peterson
+      posi: RB
+      cost: 5
       year: 1
     - name: Ryquell Armstead
       posi: RB
@@ -476,6 +530,10 @@
       cost: 7
       year: 1
     - name: Marvin Jones Jr.
+      posi: WR
+      cost: 5
+      year: 1
+    - name: Darius Slayton
       posi: WR
       cost: 5
       year: 1
@@ -503,6 +561,11 @@
       posi: TE
       cost: 5
       year: 1
+    - name: Kerryon Johnson
+      posi: RB
+      cost: 25
+      year: 1
+      drop: true
     - name: Rodney Anderson
       posi: RB
       cost: 1
@@ -541,6 +604,10 @@
       posi: RB
       cost: 27
       year: 1
+    - name: Saquon Barkley
+      posi: RB
+      cost: 6
+      year: 2
     - name: Derrick Henry
       posi: RB
       cost: 5
@@ -585,10 +652,6 @@
       posi: TE
       cost: 17
       year: 2
-    - name: Rob Gronkowski
-      posi: TE
-      cost: 5
-      year: 1
     - name: Jared Cook
       posi: TE
       cost: 3
@@ -598,6 +661,11 @@
       cost: 8
       year: 2
       drop: true
+    - name: Rob Gronkowski
+      posi: TE
+      cost: 5
+      year: 1
+      drop: true
 - name: Oxford White Sharks
   id: oxford-white-sharks
   owner: Alex White
@@ -605,14 +673,14 @@
     - 2018
   cap: 200
   roster:
-    - name: Lamar Jackson
-      posi: QB
-      cost: 1
-      year: 1
     - name: Daniel Jones
       posi: QB
       cost: 1
       year: 2
+    - name: Lamar Jackson
+      posi: QB
+      cost: 1
+      year: 1
     - name: Ryan Tannehill
       posi: QB
       cost: 1
@@ -637,11 +705,15 @@
       posi: RB
       cost: 4
       year: 1
-    - name: Tony Pollard
+    - name: Jerick McKinnon
+      posi: RB
+      cost: 3
+      year: 1
+    - name: Ronald Jones
       posi: RB
       cost: 1
       year: 1
-    - name: Ronald Jones
+    - name: Tony Pollard
       posi: RB
       cost: 1
       year: 1
