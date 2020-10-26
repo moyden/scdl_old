@@ -132,6 +132,10 @@
       posi: QB
       cost: 3
       year: 3
+    - name: Ryan Fitzpatrick
+      posi: QB
+      cost: 1
+      year: 1
     - name: Devin Singletary
       posi: RB
       cost: 16
@@ -144,10 +148,6 @@
       posi: RB
       cost: 11
       year: 3
-    - name: Sony Michel
-      posi: RB
-      cost: 11
-      year: 1
     - name: Myles Gaskin
       posi: RB
       cost: 7
@@ -212,6 +212,11 @@
       posi: QB
       cost: 6
       year: 2
+      drop: true
+    - name: Sony Michel
+      posi: RB
+      cost: 11
+      year: 1
       drop: true
     - name: Royce Freeman
       posi: RB
@@ -372,9 +377,9 @@
       posi: QB
       cost: 11
       year: 1
-    - name: Malcolm Brown
-      posi: RB
-      cost: 12
+    - name: Jared Goff
+      posi: QB
+      cost: 1
       year: 1
     - name: Mike Davis
       posi: RB
@@ -400,6 +405,10 @@
       posi: RB
       cost: 2
       year: 2
+    - name: Justin Jackson
+      posi: RB
+      cost: 1
+      year: 1
     - name: Davante Adams
       posi: WR
       cost: 20
@@ -458,6 +467,11 @@
       cost: 40
       year: 1
       drop: true
+    - name: Malcolm Brown
+      posi: RB
+      cost: 12
+      year: 1
+      drop: true
     - name: Kalen Ballage
       posi: RB
       cost: 1
@@ -513,10 +527,6 @@
       posi: RB
       cost: 5
       year: 1
-    - name: Ryquell Armstead
-      posi: RB
-      cost: 1
-      year: 2
     - name: Adam Thielen
       posi: WR
       cost: 26
@@ -561,12 +571,21 @@
       posi: TE
       cost: 5
       year: 1
+    - name: Robert Tonyan
+      posi: TE
+      cost: 3
+      year: 1
     - name: Kerryon Johnson
       posi: RB
       cost: 25
       year: 1
       drop: true
     - name: Rodney Anderson
+      posi: RB
+      cost: 1
+      year: 2
+      drop: true
+    - name: Ryquell Armstead
       posi: RB
       cost: 1
       year: 2
@@ -701,13 +720,13 @@
       posi: RB
       cost: 4
       year: 1
-    - name: Jordan Howard
-      posi: RB
-      cost: 4
-      year: 1
     - name: Jerick McKinnon
       posi: RB
       cost: 3
+      year: 1
+    - name: Jamaal Williams
+      posi: RB
+      cost: 2
       year: 1
     - name: Ronald Jones
       posi: RB
@@ -741,6 +760,10 @@
       posi: WR
       cost: 1
       year: 2
+    - name: Andy Isabella
+      posi: WR
+      cost: 1
+      year: 1
     - name: Hunter Henry
       posi: TE
       cost: 6
@@ -749,6 +772,11 @@
       posi: TE
       cost: 3
       year: 4
+    - name: Jordan Howard
+      posi: RB
+      cost: 4
+      year: 1
+      drop: true
 - name: Team HGH
   id: team-hgh
   owner: Adam Herbert
@@ -804,9 +832,9 @@
       posi: RB
       cost: 4
       year: 1
-    - name: Tarik Cohen
-      posi: RB
-      cost: 1
+    - name: Travis Fulgham
+      posi: WR
+      cost: 12
       year: 1
     - name: Tyler Lockett
       posi: WR
@@ -816,6 +844,10 @@
       posi: WR
       cost: 7
       year: 3
+    - name: Antonio Brown
+      posi: WR
+      cost: 6
+      year: 1
     - name: Robby Anderson
       posi: WR
       cost: 5
@@ -836,3 +868,8 @@
       posi: TE
       cost: 2
       year: 3
+    - name: Tarik Cohen
+      posi: RB
+      cost: 1
+      year: 1
+      drop: true
