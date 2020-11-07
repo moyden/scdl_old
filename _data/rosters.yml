@@ -61,14 +61,14 @@
       posi: WR
       cost: 5
       year: 1
-    - name: John Brown
-      posi: WR
-      cost: 1
-      year: 2
     - name: Chase Claypool
       posi: WR
       cost: 1
       year: 4
+    - name: John Brown
+      posi: WR
+      cost: 1
+      year: 2
     - name: Corey Davis
       posi: WR
       cost: 1
@@ -132,10 +132,6 @@
       posi: QB
       cost: 3
       year: 3
-    - name: Ryan Fitzpatrick
-      posi: QB
-      cost: 1
-      year: 1
     - name: Devin Singletary
       posi: RB
       cost: 16
@@ -156,14 +152,14 @@
       posi: RB
       cost: 4
       year: 1
+    - name: Chase Edmonds
+      posi: RB
+      cost: 4
+      year: 1
     - name: Damien Harris
       posi: RB
       cost: 3
       year: 3
-    - name: James White
-      posi: RB
-      cost: 3
-      year: 1
     - name: James Robinson
       posi: RB
       cost: 1
@@ -176,10 +172,6 @@
       posi: WR
       cost: 6
       year: 5
-    - name: Julian Edelman
-      posi: WR
-      cost: 6
-      year: 1
     - name: N'Keal Harry
       posi: WR
       cost: 5
@@ -196,11 +188,15 @@
       posi: WR
       cost: 4
       year: 2
+    - name: Jakobi Meyers
+      posi: WR
+      cost: 2
+      year: 1
     - name: Deebo Samuel
       posi: WR
       cost: 1
       year: 4
-    - name: Sammy Watkins
+    - name: Brandin Cooks
       posi: WR
       cost: 1
       year: 1
@@ -213,6 +209,16 @@
       cost: 6
       year: 2
       drop: true
+    - name: Matthew Stafford
+      posi: QB
+      cost: 2
+      year: 1
+      drop: true
+    - name: Ryan Fitzpatrick
+      posi: QB
+      cost: 1
+      year: 1
+      drop: true
     - name: Sony Michel
       posi: RB
       cost: 11
@@ -221,6 +227,21 @@
     - name: Royce Freeman
       posi: RB
       cost: 10
+      year: 1
+      drop: true
+    - name: Giovani Bernard
+      posi: RB
+      cost: 4
+      year: 1
+      drop: true
+    - name: James White
+      posi: RB
+      cost: 3
+      year: 1
+      drop: true
+    - name: Julian Edelman
+      posi: WR
+      cost: 6
       year: 1
       drop: true
     - name: Brandin Cooks
@@ -243,12 +264,22 @@
       cost: 2
       year: 1
       drop: true
+    - name: Rashard Higgins
+      posi: WR
+      cost: 2
+      year: 1
+      drop: true
     - name: Van Jefferson
       posi: WR
       cost: 1
       year: 1
       drop: true
     - name: Deonte Harris
+      posi: WR
+      cost: 1
+      year: 1
+      drop: true
+    - name: Sammy Watkins
       posi: WR
       cost: 1
       year: 1
@@ -409,10 +440,10 @@
       posi: RB
       cost: 1
       year: 1
-    - name: Davante Adams
+    - name: Michael Thomas
       posi: WR
-      cost: 20
-      year: 1
+      cost: 17
+      year: 3
     - name: Amari Cooper
       posi: WR
       cost: 17
@@ -635,10 +666,10 @@
       posi: WR
       cost: 27
       year: 1
-    - name: Michael Thomas
+    - name: Davante Adams
       posi: WR
-      cost: 9
-      year: 1
+      cost: 24
+      year: 2
     - name: DJ Chark Jr.
       posi: WR
       cost: 8
@@ -760,10 +791,6 @@
       posi: WR
       cost: 1
       year: 2
-    - name: Andy Isabella
-      posi: WR
-      cost: 1
-      year: 1
     - name: Hunter Henry
       posi: TE
       cost: 6
@@ -775,6 +802,11 @@
     - name: Jordan Howard
       posi: RB
       cost: 4
+      year: 1
+      drop: true
+    - name: Andy Isabella
+      posi: WR
+      cost: 1
       year: 1
       drop: true
 - name: Team HGH
