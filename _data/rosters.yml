@@ -37,7 +37,7 @@
       posi: RB
       cost: 1
       year: 3
-    - name: Benny Snell Jr.
+    - name: Giovani Bernard
       posi: RB
       cost: 1
       year: 1
@@ -114,6 +114,11 @@
       cost: 2
       year: 1
       drop: true
+    - name: Benny Snell Jr.
+      posi: RB
+      cost: 1
+      year: 1
+      drop: true
     - name: Corey Davis
       posi: WR
       cost: 5
@@ -132,6 +137,10 @@
       posi: QB
       cost: 3
       year: 3
+    - name: Derek Carr
+      posi: QB
+      cost: 1
+      year: 1
     - name: Devin Singletary
       posi: RB
       cost: 16
@@ -164,10 +173,10 @@
       posi: RB
       cost: 1
       year: 1
-    - name: Stefon Diggs
+    - name: Mike Evans
       posi: WR
-      cost: 7
-      year: 1
+      cost: 31
+      year: 2
     - name: Justin Jefferson
       posi: WR
       cost: 6
@@ -524,7 +533,7 @@
   trophies:
     - 2015
     - 2017
-  cap: 200
+  cap: 197
   roster:
     - name: DeShaun Watson
       posi: QB
@@ -542,6 +551,10 @@
       posi: RB
       cost: 18
       year: 1
+    - name: Derek Henry
+      posi: RB
+      cost: 13
+      year: 3
     - name: D'Andre Swift
       posi: RB
       cost: 9
@@ -561,10 +574,6 @@
     - name: Adam Thielen
       posi: WR
       cost: 26
-      year: 1
-    - name: Allen Robinson II
-      posi: WR
-      cost: 10
       year: 1
     - name: DeVante Parker
       posi: WR
@@ -589,10 +598,6 @@
     - name: Tyler Boyd
       posi: WR
       cost: 2
-      year: 1
-    - name: A.J. Brown
-      posi: WR
-      cost: 1
       year: 1
     - name: Zach Ertz
       posi: TE
@@ -624,7 +629,7 @@
 - name: Lower Clapton Lizards
   id: lower-clapton-lizards
   owner: Dominic Noble
-  cap: 222
+  cap: 225
   roster:
     - name: Aaron Rodgers
       posi: QB
@@ -634,10 +639,6 @@
       posi: QB
       cost: 3
       year: 5
-    - name: Dwayne Haskins
-      posi: QB
-      cost: 1
-      year: 4
     - name: Matt Ryan
       posi: QB
       cost: 1
@@ -658,41 +659,37 @@
       posi: RB
       cost: 6
       year: 2
-    - name: Derrick Henry
+    - name: DeeJay Dallas
       posi: RB
-      cost: 5
-      year: 1
-    - name: Mike Evans
-      posi: WR
-      cost: 27
+      cost: 1
       year: 1
     - name: Davante Adams
       posi: WR
       cost: 24
       year: 2
+    - name: Allen Robinson II
+      posi: WR
+      cost: 18
+      year: 3
+    - name: Stefon Diggs
+      posi: WR
+      cost: 15
+      year: 3
+    - name: A.J. Brown
+      posi: WR
+      cost: 9
+      year: 3
     - name: DJ Chark Jr.
       posi: WR
       cost: 8
-      year: 1
-    - name: A.J. Green
-      posi: WR
-      cost: 7
       year: 1
     - name: Anthony Miller
       posi: WR
       cost: 3
       year: 2
-    - name: Alshon Jeffery
-      posi: WR
-      cost: 3
-      year: 1
     - name: Courtland Sutton
       posi: WR
       cost: 2
-      year: 2
-    - name: James Washington
-      posi: WR
-      cost: 1
       year: 2
     - name: Michael Gallup
       posi: WR
@@ -706,9 +703,29 @@
       posi: TE
       cost: 3
       year: 1
+    - name: Dwayne Haskins
+      posi: QB
+      cost: 1
+      year: 4
+      drop: true
     - name: Derrius Guice
       posi: RB
       cost: 8
+      year: 2
+      drop: true
+    - name: A.J. Green
+      posi: WR
+      cost: 7
+      year: 1
+      drop: true
+    - name: Alshon Jeffery
+      posi: WR
+      cost: 3
+      year: 1
+      drop: true
+    - name: James Washington
+      posi: WR
+      cost: 1
       year: 2
       drop: true
     - name: Rob Gronkowski
