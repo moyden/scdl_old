@@ -131,8 +131,8 @@
   roster:
     - name: Patrick Mahomes (tag)
       posi: QB
-      cost: 11
-      year: 1
+      cost: 19
+      year: 3
     - name: Dak Prescott
       posi: QB
       cost: 4
@@ -820,6 +820,10 @@
       posi: TE
       cost: 3
       year: 4
+    - name: Rob Gronkowski
+      posi: TE
+      cost: 1
+      year: 1
     - name: Jordan Howard
       posi: RB
       cost: 4
