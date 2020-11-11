@@ -129,6 +129,10 @@
   owner: James Spayne
   cap: 190
   roster:
+    - name: Patrick Mahomes (tag)
+      posi: QB
+      cost: 11
+      year: 1
     - name: Dak Prescott
       posi: QB
       cost: 4
@@ -137,10 +141,6 @@
       posi: QB
       cost: 3
       year: 3
-    - name: Derek Carr
-      posi: QB
-      cost: 1
-      year: 1
     - name: Devin Singletary
       posi: RB
       cost: 16
@@ -157,10 +157,6 @@
       posi: RB
       cost: 7
       year: 2
-    - name: Devonta Freeman
-      posi: RB
-      cost: 4
-      year: 1
     - name: Chase Edmonds
       posi: RB
       cost: 4
@@ -177,6 +173,10 @@
       posi: WR
       cost: 31
       year: 2
+    - name: Christian Kirk
+      posi: WR
+      cost: 10
+      year: 3
     - name: Justin Jefferson
       posi: WR
       cost: 6
@@ -193,18 +193,10 @@
       posi: WR
       cost: 4
       year: 4
-    - name: Will Fuller V
-      posi: WR
-      cost: 4
-      year: 2
     - name: Jakobi Meyers
       posi: WR
       cost: 2
       year: 1
-    - name: Deebo Samuel
-      posi: WR
-      cost: 1
-      year: 4
     - name: Brandin Cooks
       posi: WR
       cost: 1
@@ -228,6 +220,11 @@
       cost: 1
       year: 1
       drop: true
+    - name: Derek Carr
+      posi: QB
+      cost: 1
+      year: 1
+      drop: true
     - name: Sony Michel
       posi: RB
       cost: 11
@@ -236,6 +233,11 @@
     - name: Royce Freeman
       posi: RB
       cost: 10
+      year: 1
+      drop: true
+    - name: Devonta Freeman
+      posi: RB
+      cost: 4
       year: 1
       drop: true
     - name: Giovani Bernard
@@ -413,10 +415,6 @@
   owner: Will Capes
   cap: 183
   roster:
-    - name: Patrick Mahomes (tag)
-      posi: QB
-      cost: 11
-      year: 1
     - name: Jared Goff
       posi: QB
       cost: 1
@@ -437,10 +435,6 @@
       posi: RB
       cost: 7
       year: 4
-    - name: Darwin Thompson
-      posi: RB
-      cost: 4
-      year: 3
     - name: Justice Hill
       posi: RB
       cost: 2
@@ -481,14 +475,14 @@
       posi: WR
       cost: 2
       year: 2
+    - name: Deebo Samuel
+      posi: WR
+      cost: 1
+      year: 4
     - name: Laviska Shenault Jr.
       posi: WR
       cost: 1
       year: 4
-    - name: JJ Arcega-Whiteside
-      posi: WR
-      cost: 1
-      year: 3
     - name: Darren Waller
       posi: TE
       cost: 9
@@ -512,6 +506,11 @@
       cost: 12
       year: 1
       drop: true
+    - name: Darwin Thompson
+      posi: RB
+      cost: 4
+      year: 3
+      drop: true
     - name: Kalen Ballage
       posi: RB
       cost: 1
@@ -521,6 +520,11 @@
       posi: WR
       cost: 6
       year: 2
+      drop: true
+    - name: JJ Arcega-Whiteside
+      posi: WR
+      cost: 1
+      year: 3
       drop: true
     - name: Dante Pettis
       posi: WR
@@ -901,10 +905,10 @@
       posi: WR
       cost: 5
       year: 3
-    - name: Christian Kirk
+    - name: Will Fuller V
       posi: WR
-      cost: 2
-      year: 1
+      cost: 4
+      year: 2
     - name: Mike Williams
       posi: WR
       cost: 2
