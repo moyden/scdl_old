@@ -2,931 +2,630 @@
   id: colorado-pony-hospital
   owner: Joseph Moyden
   trophies:
-    - 2019
+  - 2019
   cap: 205
   roster:
-    - name: Drew Brees
-      posi: QB
-      cost: 5
-      year: 1
-    - name: Tom Brady
-      posi: QB
-      cost: 2
-      year: 1
-    - name: Melvin Gordon
-      posi: RB
-      cost: 20
-      year: 3
-    - name: Leonard Fournette
-      posi: RB
-      cost: 20
-      year: 1
-    - name: Miles Sanders
-      posi: RB
-      cost: 19
-      year: 3
-    - name: James Conner
-      posi: RB
-      cost: 16
-      year: 1
-    - name: Nick Chubb
-      posi: RB
-      cost: 5
-      year: 2
-    - name: Anthony McFarland Jr.
-      posi: RB
-      cost: 1
-      year: 3
-    - name: Giovani Bernard
-      posi: RB
-      cost: 1
-      year: 1
-    - name: Kenny Golladay
-      posi: WR
-      cost: 26
-      year: 1
-    - name: Robert Woods
-      posi: WR
-      cost: 19
-      year: 2
-    - name: Chris Godwin
-      posi: WR
-      cost: 15
-      year: 1
-    - name: Jerry Jeudy
-      posi: WR
-      cost: 12
-      year: 5
-    - name: Jarvis Landry
-      posi: WR
-      cost: 5
-      year: 1
-    - name: Chase Claypool
-      posi: WR
-      cost: 1
-      year: 4
-    - name: John Brown
-      posi: WR
-      cost: 1
-      year: 2
-    - name: Corey Davis
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Emmanuel Sanders
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Noah Fant
-      posi: TE
-      cost: 2
-      year: 4
-    - name: Jonnu Smith
-      posi: TE
-      cost: 1
-      year: 3
-    - name: O.J. Howard
-      posi: TE
-      cost: 1
-      year: 2
-    - name: Marcus Mariota
-      posi: QB
-      cost: 5
-      year: 1
-      drop: true
-    - name: Blake Bortles
-      posi: QB
-      cost: 3
-      year: 1
-      drop: true
-    - name: Jared Goff
-      posi: QB
-      cost: 2
-      year: 2
-      drop: true
-    - name: Devonta Freeman
-      posi: RB
-      cost: 25
-      year: 1
-      drop: true
-    - name: Matt Breida
-      posi: RB
-      cost: 2
-      year: 1
-      drop: true
-    - name: Benny Snell Jr.
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Corey Davis
-      posi: WR
-      cost: 5
-      year: 1
-      drop: true
+  - name: Melvin Gordon
+    posi: RB
+    cost: 20
+    year: 2
+    drop: false
+    owner: Joe
+  - name: Miles Sanders
+    posi: RB
+    cost: 19
+    year: 2
+    drop: false
+    owner: Joe
+  - name: Nick Chubb
+    posi: RB
+    cost: 5
+    year: 1
+    drop: false
+    owner: Joe
+  - name: Anthony McFarland Jr.
+    posi: RB
+    cost: 1
+    year: 2
+    drop: false
+    owner: Joe
+  - name: Robert Woods
+    posi: WR
+    cost: 19
+    year: 1
+    drop: false
+    owner: Joe
+  - name: Jerry Jeudy
+    posi: WR
+    cost: 12
+    year: 4
+    drop: false
+    owner: Joe
+  - name: Chase Claypool
+    posi: WR
+    cost: 1
+    year: 3
+    drop: false
+    owner: Joe
+  - name: John Brown
+    posi: WR
+    cost: 1
+    year: 1
+    drop: false
+    owner: Joe
+  - name: Noah Fant
+    posi: TE
+    cost: 2
+    year: 3
+    drop: false
+    owner: Joe
+  - name: Jonnu Smith
+    posi: TE
+    cost: 1
+    year: 2
+    drop: false
+    owner: Joe
+  - name: Jared Goff
+    posi: QB
+    cost: 2
+    year: 1
+    drop: true
+    owner: Joe
+  - name: O.J. Howard
+    posi: TE
+    cost: 1
+    year: 1
+    drop: true
+    owner: Joe
 - name: Dillon Panthers
   id: dillon-panthers
   owner: James Spayne
   cap: 190
   roster:
-    - name: Patrick Mahomes (tag)
-      posi: QB
-      cost: 19
-      year: 3
-    - name: Dak Prescott
-      posi: QB
-      cost: 4
-      year: 5
-    - name: Joe Burrow
-      posi: QB
-      cost: 3
-      year: 3
-    - name: Devin Singletary
-      posi: RB
-      cost: 16
-      year: 2
-    - name: J.K. Dobbins
-      posi: RB
-      cost: 11
-      year: 4
-    - name: Antonio Gibson
-      posi: RB
-      cost: 11
-      year: 3
-    - name: Myles Gaskin
-      posi: RB
-      cost: 7
-      year: 2
-    - name: Chase Edmonds
-      posi: RB
-      cost: 4
-      year: 1
-    - name: Damien Harris
-      posi: RB
-      cost: 3
-      year: 3
-    - name: James Robinson
-      posi: RB
-      cost: 1
-      year: 1
-    - name: Mike Evans
-      posi: WR
-      cost: 31
-      year: 2
-    - name: Christian Kirk
-      posi: WR
-      cost: 10
-      year: 3
-    - name: Justin Jefferson
-      posi: WR
-      cost: 6
-      year: 5
-    - name: N'Keal Harry
-      posi: WR
-      cost: 5
-      year: 4
-    - name: Diontae Johnson
-      posi: WR
-      cost: 5
-      year: 2
-    - name: Jalen Reagor
-      posi: WR
-      cost: 4
-      year: 4
-    - name: Jakobi Meyers
-      posi: WR
-      cost: 2
-      year: 1
-    - name: Brandin Cooks
-      posi: WR
-      cost: 1
-      year: 1
-    - name: Mark Andrews
-      posi: TE
-      cost: 11
-      year: 1
-    - name: Baker Mayfield
-      posi: QB
-      cost: 6
-      year: 2
-      drop: true
-    - name: Matthew Stafford
-      posi: QB
-      cost: 2
-      year: 1
-      drop: true
-    - name: Ryan Fitzpatrick
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Derek Carr
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Sony Michel
-      posi: RB
-      cost: 11
-      year: 1
-      drop: true
-    - name: Royce Freeman
-      posi: RB
-      cost: 10
-      year: 1
-      drop: true
-    - name: Devonta Freeman
-      posi: RB
-      cost: 4
-      year: 1
-      drop: true
-    - name: Giovani Bernard
-      posi: RB
-      cost: 4
-      year: 1
-      drop: true
-    - name: James White
-      posi: RB
-      cost: 3
-      year: 1
-      drop: true
-    - name: Julian Edelman
-      posi: WR
-      cost: 6
-      year: 1
-      drop: true
-    - name: Brandin Cooks
-      posi: WR
-      cost: 6
-      year: 1
-      drop: true
-    - name: Marquez Valdes-Scantling
-      posi: WR
-      cost: 4
-      year: 1
-      drop: true
-    - name: Sterling Shepherd
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: John Ross
-      posi: WR
-      cost: 2
-      year: 1
-      drop: true
-    - name: Rashard Higgins
-      posi: WR
-      cost: 2
-      year: 1
-      drop: true
-    - name: Van Jefferson
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Deonte Harris
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: Sammy Watkins
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
-    - name: David Njoku
-      posi: TE
-      cost: 4
-      year: 1
-      drop: true
+  - name: Patrick Mahomes
+    posi: QB
+    cost: 19
+    year: 2
+    drop: false
+    owner: James
+  - name: Dak Prescott
+    posi: QB
+    cost: 4
+    year: 4
+    drop: false
+    owner: James
+  - name: Joe Burrow
+    posi: QB
+    cost: 3
+    year: 2
+    drop: false
+    owner: James
+  - name: Devin Singletary
+    posi: RB
+    cost: 16
+    year: 1
+    drop: false
+    owner: James
+  - name: J.K. Dobbins
+    posi: RB
+    cost: 11
+    year: 3
+    drop: false
+    owner: James
+  - name: Antonio Gibson
+    posi: RB
+    cost: 11
+    year: 2
+    drop: false
+    owner: James
+  - name: Myles Gaskin
+    posi: RB
+    cost: 7
+    year: 1
+    drop: false
+    owner: James
+  - name: Damien Harris
+    posi: RB
+    cost: 3
+    year: 2
+    drop: false
+    owner: James
+  - name: Mike Evans
+    posi: WR
+    cost: 31
+    year: 1
+    drop: false
+    owner: James
+  - name: Christian Kirk
+    posi: WR
+    cost: 10
+    year: 2
+    drop: false
+    owner: James
+  - name: Justin Jefferson
+    posi: WR
+    cost: 6
+    year: 4
+    drop: false
+    owner: James
+  - name: N'Keal Harry
+    posi: WR
+    cost: 5
+    year: 3
+    drop: false
+    owner: James
+  - name: Diontae Johnson
+    posi: WR
+    cost: 5
+    year: 1
+    drop: false
+    owner: James
+  - name: Jalen Reagor
+    posi: WR
+    cost: 4
+    year: 3
+    drop: false
+    owner: James
+  - name: Baker Mayfield
+    posi: QB
+    cost: 6
+    year: 1
+    drop: true
+    owner: James
 - name: Dynasty Warriors VI
   id: dynasty-warriors
   owner: Richard Parkin
   cap: 200
   roster:
-    - name: Kyler Murray
-      posi: QB
-      cost: 3
-      year: 4
-    - name: Cam Newton
-      posi: QB
-      cost: 1
-      year: 1
-    - name: Alvin Kamara
-      posi: RB
-      cost: 39
-      year: 1
-    - name: Josh Jacobs
-      posi: RB
-      cost: 25
-      year: 2
-    - name: Todd Gurley II
-      posi: RB
-      cost: 12
-      year: 3
-    - name: Le'Veon Bell
-      posi: RB
-      cost: 12
-      year: 2
-    - name: Duke Johnson Jr.
-      posi: RB
-      cost: 6
-      year: 2
-    - name: Marlon Mack
-      posi: RB
-      cost: 5
-      year: 3
-    - name: Alexander Mattison
-      posi: RB
-      cost: 4
-      year: 1
-    - name: Latavius Murray
-      posi: RB
-      cost: 3
-      year: 1
-    - name: AJ Dillon
-      posi: RB
-      cost: 2
-      year: 5
-    - name: T.Y. Hilton
-      posi: WR
-      cost: 17
-      year: 1
-    - name: Odell Beckham Jr.
-      posi: WR
-      cost: 17
-      year: 1
-    - name: DK Metcalf
-      posi: WR
-      cost: 6
-      year: 4
-    - name: Sterling Shepard
-      posi: WR
-      cost: 6
-      year: 1
-    - name: Calvin Ridley
-      posi: WR
-      cost: 3
-      year: 3
-    - name: Tee Higgins
-      posi: WR
-      cost: 2
-      year: 5
-    - name: Bryan Edwards
-      posi: WR
-      cost: 1
-      year: 5
-    - name: Marquise Brown
-      posi: WR
-      cost: 1
-      year: 4
-    - name: Hayden Hurst
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Jerick McKinnon
-      posi: RB
-      cost: 12
-      year: 1
-      drop: true
-    - name: Doug Baldwin
-      posi: WR
-      cost: 15
-      year: 1
-      drop: true
-    - name: Michael Floyd
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: Kevin White
-      posi: WR
-      cost: 1
-      year: 2
-      drop: true
-    - name: Laquon Treadwell
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
+  - name: Kyler Murray
+    posi: QB
+    cost: 3
+    year: 3
+    drop: false
+    owner: Richard
+  - name: Josh Jacobs
+    posi: RB
+    cost: 25
+    year: 1
+    drop: false
+    owner: Richard
+  - name: Todd Gurley II
+    posi: RB
+    cost: 12
+    year: 2
+    drop: false
+    owner: Richard
+  - name: Le'Veon Bell
+    posi: RB
+    cost: 12
+    year: 1
+    drop: false
+    owner: Richard
+  - name: Duke Johnson Jr.
+    posi: RB
+    cost: 6
+    year: 1
+    drop: false
+    owner: Richard
+  - name: Marlon Mack
+    posi: RB
+    cost: 5
+    year: 2
+    drop: false
+    owner: Richard
+  - name: AJ Dillon
+    posi: RB
+    cost: 2
+    year: 4
+    drop: false
+    owner: Richard
+  - name: DK Metcalf
+    posi: WR
+    cost: 6
+    year: 3
+    drop: false
+    owner: Richard
+  - name: Calvin Ridley
+    posi: WR
+    cost: 3
+    year: 2
+    drop: false
+    owner: Richard
+  - name: Tee Higgins
+    posi: WR
+    cost: 2
+    year: 4
+    drop: false
+    owner: Richard
+  - name: Bryan Edwards
+    posi: WR
+    cost: 1
+    year: 4
+    drop: false
+    owner: Richard
+  - name: Marquise Brown
+    posi: WR
+    cost: 1
+    year: 3
+    drop: false
+    owner: Richard
+  - name: Kevin White
+    posi: WR
+    cost: 1
+    year: 1
+    drop: true
+    owner: Richard
 - name: Jamaal About That Base
   id: jamaal-about-that-base
   owner: Will Capes
   cap: 183
   roster:
-    - name: Jared Goff
-      posi: QB
-      cost: 1
-      year: 1
-    - name: Mike Davis
-      posi: RB
-      cost: 10
-      year: 1
-    - name: Rashaad Penny
-      posi: RB
-      cost: 9
-      year: 3
-    - name: Joe Mixon
-      posi: RB
-      cost: 9
-      year: 1
-    - name: Cam Akers
-      posi: RB
-      cost: 7
-      year: 4
-    - name: Justice Hill
-      posi: RB
-      cost: 2
-      year: 2
-    - name: Justin Jackson
-      posi: RB
-      cost: 1
-      year: 1
-    - name: Michael Thomas
-      posi: WR
-      cost: 17
-      year: 3
-    - name: Amari Cooper
-      posi: WR
-      cost: 17
-      year: 1
-    - name: JuJu Smith-Schuster
-      posi: WR
-      cost: 15
-      year: 1
-    - name: Terry McLaurin
-      posi: WR
-      cost: 9
-      year: 1
-    - name: Henry Ruggs III
-      posi: WR
-      cost: 8
-      year: 4
-    - name: Allen Lazard
-      posi: WR
-      cost: 5
-      year: 1
-    - name: DJ Moore
-      posi: WR
-      cost: 4
-      year: 3
-    - name: Mecole Hardman
-      posi: WR
-      cost: 2
-      year: 2
-    - name: Deebo Samuel
-      posi: WR
-      cost: 1
-      year: 4
-    - name: Laviska Shenault Jr.
-      posi: WR
-      cost: 1
-      year: 4
-    - name: Darren Waller
-      posi: TE
-      cost: 9
-      year: 1
-    - name: Mike Gesicki
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Matthew Stafford
-      posi: QB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Saquon Barkley
-      posi: RB
-      cost: 40
-      year: 1
-      drop: true
-    - name: Malcolm Brown
-      posi: RB
-      cost: 12
-      year: 1
-      drop: true
-    - name: Darwin Thompson
-      posi: RB
-      cost: 4
-      year: 3
-      drop: true
-    - name: Kalen Ballage
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
-    - name: Michael Pittman Jr.
-      posi: WR
-      cost: 6
-      year: 2
-      drop: true
-    - name: JJ Arcega-Whiteside
-      posi: WR
-      cost: 1
-      year: 3
-      drop: true
-    - name: Dante Pettis
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
+  - name: Rashaad Penny
+    posi: RB
+    cost: 9
+    year: 2
+    drop: false
+    owner: Will
+  - name: Cam Akers
+    posi: RB
+    cost: 7
+    year: 3
+    drop: false
+    owner: Will
+  - name: Justice Hill
+    posi: RB
+    cost: 2
+    year: 1
+    drop: false
+    owner: Will
+  - name: Michael Thomas
+    posi: WR
+    cost: 17
+    year: 2
+    drop: false
+    owner: Will
+  - name: Henry Ruggs III
+    posi: WR
+    cost: 8
+    year: 3
+    drop: false
+    owner: Will
+  - name: DJ Moore
+    posi: WR
+    cost: 4
+    year: 2
+    drop: false
+    owner: Will
+  - name: Mecole Hardman
+    posi: WR
+    cost: 2
+    year: 1
+    drop: false
+    owner: Will
+  - name: Deebo Samuel
+    posi: WR
+    cost: 1
+    year: 3
+    drop: false
+    owner: Will
+  - name: Laviska Shenault Jr.
+    posi: WR
+    cost: 1
+    year: 3
+    drop: false
+    owner: Will
+  - name: Darwin Thompson
+    posi: RB
+    cost: 4
+    year: 2
+    drop: true
+    owner: Will
+  - name: Michael Pittman Jr.
+    posi: WR
+    cost: 6
+    year: 1
+    drop: true
+    owner: Will
+  - name: JJ Arcega-Whiteside
+    posi: WR
+    cost: 1
+    year: 2
+    drop: true
+    owner: Will
 - name: LOL Boys
   id: lol-boys
   owner: Luke Carlisle
   trophies:
-    - 2015
-    - 2017
+  - 2015
+  - 2017
   cap: 197
   roster:
-    - name: DeShaun Watson
-      posi: QB
-      cost: 11
-      year: 2
-    - name: Josh Allen
-      posi: QB
-      cost: 2
-      year: 2
-    - name: David Johnson
-      posi: RB
-      cost: 42
-      year: 1
-    - name: Chris Carson
-      posi: RB
-      cost: 18
-      year: 1
-    - name: Derek Henry
-      posi: RB
-      cost: 13
-      year: 3
-    - name: D'Andre Swift
-      posi: RB
-      cost: 9
-      year: 3
-    - name: Phillip Lindsay
-      posi: RB
-      cost: 8
-      year: 1
-    - name: Mark Ingram II
-      posi: RB
-      cost: 7
-      year: 1
-    - name: Adrian Peterson
-      posi: RB
-      cost: 5
-      year: 1
-    - name: Adam Thielen
-      posi: WR
-      cost: 26
-      year: 1
-    - name: DeVante Parker
-      posi: WR
-      cost: 7
-      year: 1
-    - name: Marvin Jones Jr.
-      posi: WR
-      cost: 5
-      year: 1
-    - name: Darius Slayton
-      posi: WR
-      cost: 5
-      year: 1
-    - name: Brandon Aiyuk
-      posi: WR
-      cost: 3
-      year: 3
-    - name: Denzel Mims
-      posi: WR
-      cost: 2
-      year: 3
-    - name: Tyler Boyd
-      posi: WR
-      cost: 2
-      year: 1
-    - name: Zach Ertz
-      posi: TE
-      cost: 10
-      year: 2
-    - name: Evan Engram
-      posi: TE
-      cost: 5
-      year: 1
-    - name: Robert Tonyan
-      posi: TE
-      cost: 3
-      year: 1
-    - name: Kerryon Johnson
-      posi: RB
-      cost: 25
-      year: 1
-      drop: true
-    - name: Rodney Anderson
-      posi: RB
-      cost: 1
-      year: 2
-      drop: true
-    - name: Ryquell Armstead
-      posi: RB
-      cost: 1
-      year: 2
-      drop: true
+  - name: DeShaun Watson
+    posi: QB
+    cost: 11
+    year: 1
+    drop: false
+    owner: Luke
+  - name: Josh Allen
+    posi: QB
+    cost: 2
+    year: 1
+    drop: false
+    owner: Luke
+  - name: Derrick Henry
+    posi: RB
+    cost: 13
+    year: 2
+    drop: false
+    owner: Luke
+  - name: D'Andre Swift
+    posi: RB
+    cost: 9
+    year: 2
+    drop: false
+    owner: Luke
+  - name: Brandon Aiyuk
+    posi: WR
+    cost: 3
+    year: 2
+    drop: false
+    owner: Luke
+  - name: Denzel Mims
+    posi: WR
+    cost: 2
+    year: 2
+    drop: false
+    owner: Luke
+  - name: Zach Ertz
+    posi: TE
+    cost: 10
+    year: 1
+    drop: false
+    owner: Luke
+  - name: Rodney Anderson
+    posi: RB
+    cost: 1
+    year: 1
+    drop: true
+    owner: Luke
+  - name: Ryquell Armstead
+    posi: RB
+    cost: 1
+    year: 1
+    drop: true
+    owner: Luke
 - name: Lower Clapton Lizards
   id: lower-clapton-lizards
   owner: Dominic Noble
   cap: 225
   roster:
-    - name: Aaron Rodgers
-      posi: QB
-      cost: 4
-      year: 1
-    - name: Tua Tagovailoa
-      posi: QB
-      cost: 3
-      year: 5
-    - name: Matt Ryan
-      posi: QB
-      cost: 1
-      year: 1
-    - name: Ezekiel Elliott
-      posi: RB
-      cost: 40
-      year: 2
-    - name: Clyde Edwards-Helaire
-      posi: RB
-      cost: 30
-      year: 3
-    - name: Kenyan Drake
-      posi: RB
-      cost: 27
-      year: 1
-    - name: Saquon Barkley
-      posi: RB
-      cost: 6
-      year: 2
-    - name: DeeJay Dallas
-      posi: RB
-      cost: 1
-      year: 1
-    - name: Davante Adams
-      posi: WR
-      cost: 24
-      year: 2
-    - name: Allen Robinson II
-      posi: WR
-      cost: 18
-      year: 3
-    - name: Stefon Diggs
-      posi: WR
-      cost: 15
-      year: 3
-    - name: A.J. Brown
-      posi: WR
-      cost: 9
-      year: 3
-    - name: DJ Chark Jr.
-      posi: WR
-      cost: 8
-      year: 1
-    - name: Anthony Miller
-      posi: WR
-      cost: 3
-      year: 2
-    - name: Courtland Sutton
-      posi: WR
-      cost: 2
-      year: 2
-    - name: Michael Gallup
-      posi: WR
-      cost: 1
-      year: 2
-    - name: George Kittle
-      posi: TE
-      cost: 17
-      year: 2
-    - name: Jared Cook
-      posi: TE
-      cost: 3
-      year: 1
-    - name: Dwayne Haskins
-      posi: QB
-      cost: 1
-      year: 4
-      drop: true
-    - name: Derrius Guice
-      posi: RB
-      cost: 8
-      year: 2
-      drop: true
-    - name: A.J. Green
-      posi: WR
-      cost: 7
-      year: 1
-      drop: true
-    - name: Alshon Jeffery
-      posi: WR
-      cost: 3
-      year: 1
-      drop: true
-    - name: James Washington
-      posi: WR
-      cost: 1
-      year: 2
-      drop: true
-    - name: Rob Gronkowski
-      posi: TE
-      cost: 5
-      year: 1
-      drop: true
+  - name: Tua Tagovailoa
+    posi: QB
+    cost: 3
+    year: 4
+    drop: false
+    owner: Dom
+  - name: Ezekiel Elliott
+    posi: RB
+    cost: 40
+    year: 1
+    drop: false
+    owner: Dom
+  - name: Clyde Edwards-Helaire
+    posi: RB
+    cost: 30
+    year: 2
+    drop: false
+    owner: Dom
+  - name: Saquon Barkley
+    posi: RB
+    cost: 6
+    year: 1
+    drop: false
+    owner: Dom
+  - name: Davante Adams
+    posi: WR
+    cost: 24
+    year: 1
+    drop: false
+    owner: Dom
+  - name: Allen Robinson II
+    posi: WR
+    cost: 18
+    year: 2
+    drop: false
+    owner: Dom
+  - name: Stefon Diggs
+    posi: WR
+    cost: 15
+    year: 2
+    drop: false
+    owner: Dom
+  - name: A.J. Brown
+    posi: WR
+    cost: 9
+    year: 2
+    drop: false
+    owner: Dom
+  - name: Anthony Miller
+    posi: WR
+    cost: 3
+    year: 1
+    drop: false
+    owner: Dom
+  - name: Courtland Sutton
+    posi: WR
+    cost: 2
+    year: 1
+    drop: false
+    owner: Dom
+  - name: Michael Gallup
+    posi: WR
+    cost: 1
+    year: 1
+    drop: false
+    owner: Dom
+  - name: George Kittle
+    posi: TE
+    cost: 17
+    year: 1
+    drop: false
+    owner: Dom
+  - name: Dwayne Haskins
+    posi: QB
+    cost: 1
+    year: 3
+    drop: true
+    owner: Dom
+  - name: Derrius Guice
+    posi: RB
+    cost: 8
+    year: 1
+    drop: true
+    owner: Dom
+  - name: James Washington
+    posi: WR
+    cost: 1
+    year: 1
+    drop: true
+    owner: Dom
 - name: Oxford White Sharks
   id: oxford-white-sharks
   owner: Alex White
   trophies:
-    - 2018
+  - 2018
   cap: 200
   roster:
-    - name: Daniel Jones
-      posi: QB
-      cost: 1
-      year: 2
-    - name: Lamar Jackson
-      posi: QB
-      cost: 1
-      year: 1
-    - name: Ryan Tannehill
-      posi: QB
-      cost: 1
-      year: 1
-    - name: Christian McCaffrey
-      posi: RB
-      cost: 17
-      year: 1
-    - name: Jonathan Taylor
-      posi: RB
-      cost: 16
-      year: 5
-    - name: Raheem Mostert
-      posi: RB
-      cost: 9
-      year: 1
-    - name: Tevin Coleman
-      posi: RB
-      cost: 4
-      year: 1
-    - name: Jerick McKinnon
-      posi: RB
-      cost: 3
-      year: 1
-    - name: Jamaal Williams
-      posi: RB
-      cost: 2
-      year: 1
-    - name: Ronald Jones
-      posi: RB
-      cost: 1
-      year: 1
-    - name: Tony Pollard
-      posi: RB
-      cost: 1
-      year: 1
-    - name: Julio Jones
-      posi: WR
-      cost: 33
-      year: 1
-    - name: DeAndre Hopkins
-      posi: WR
-      cost: 32
-      year: 2
-    - name: Tyreek Hill
-      posi: WR
-      cost: 29
-      year: 2
-    - name: CeeDee Lamb
-      posi: WR
-      cost: 15
-      year: 5
-    - name: Cooper Kupp
-      posi: WR
-      cost: 11
-      year: 2
-    - name: Preston Williams
-      posi: WR
-      cost: 1
-      year: 2
-    - name: Hunter Henry
-      posi: TE
-      cost: 6
-      year: 2
-    - name: T.J. Hockenson
-      posi: TE
-      cost: 3
-      year: 4
-    - name: Rob Gronkowski
-      posi: TE
-      cost: 1
-      year: 1
-    - name: Jordan Howard
-      posi: RB
-      cost: 4
-      year: 1
-      drop: true
-    - name: Andy Isabella
-      posi: WR
-      cost: 1
-      year: 1
-      drop: true
+  - name: Daniel Jones
+    posi: QB
+    cost: 1
+    year: 1
+    drop: false
+    owner: Alex
+  - name: Jonathan Taylor
+    posi: RB
+    cost: 16
+    year: 4
+    drop: false
+    owner: Alex
+  - name: DeAndre Hopkins
+    posi: WR
+    cost: 32
+    year: 1
+    drop: false
+    owner: Alex
+  - name: Tyreek Hill
+    posi: WR
+    cost: 29
+    year: 1
+    drop: false
+    owner: Alex
+  - name: CeeDee Lamb
+    posi: WR
+    cost: 15
+    year: 4
+    drop: false
+    owner: Alex
+  - name: Cooper Kupp
+    posi: WR
+    cost: 11
+    year: 1
+    drop: false
+    owner: Alex
+  - name: Preston Williams
+    posi: WR
+    cost: 1
+    year: 1
+    drop: false
+    owner: Alex
+  - name: Hunter Henry
+    posi: TE
+    cost: 6
+    year: 1
+    drop: false
+    owner: Alex
+  - name: T.J. Hockenson
+    posi: TE
+    cost: 3
+    year: 3
+    drop: false
+    owner: Alex
 - name: Team HGH
   id: team-hgh
   owner: Adam Herbert
   trophies:
-    - 2016
+  - 2016
   cap: 200
   roster:
-    - name: Russell Wilson
-      posi: QB
-      cost: 14
-      year: 2
-    - name: Carson Wentz
-      posi: QB
-      cost: 7
-      year: 1
-    - name: Ben Roethlisberger
-      posi: QB
-      cost: 2
-      year: 1
-    - name: Justin Herbert
-      posi: QB
-      cost: 1
-      year: 5
-    - name: David Montgomery
-      posi: RB
-      cost: 28
-      year: 1
-    - name: Aaron Jones
-      posi: RB
-      cost: 19
-      year: 3
-    - name: Kareem Hunt
-      posi: RB
-      cost: 14
-      year: 2
-    - name: Dalvin Cook
-      posi: RB
-      cost: 13
-      year: 1
-    - name: Zack Moss
-      posi: RB
-      cost: 6
-      year: 4
-    - name: Joshua Kelley
-      posi: RB
-      cost: 5
-      year: 4
-    - name: Austin Ekeler
-      posi: RB
-      cost: 5
-      year: 2
-    - name: Darrell Henderson
-      posi: RB
-      cost: 4
-      year: 1
-    - name: Travis Fulgham
-      posi: WR
-      cost: 12
-      year: 1
-    - name: Tyler Lockett
-      posi: WR
-      cost: 10
-      year: 2
-    - name: Keenan Allen
-      posi: WR
-      cost: 7
-      year: 3
-    - name: Antonio Brown
-      posi: WR
-      cost: 6
-      year: 1
-    - name: Robby Anderson
-      posi: WR
-      cost: 5
-      year: 3
-    - name: Will Fuller V
-      posi: WR
-      cost: 4
-      year: 2
-    - name: Mike Williams
-      posi: WR
-      cost: 2
-      year: 1
-    - name: Travis Kelce
-      posi: TE
-      cost: 29
-      year: 1
-    - name: Tyler Higbee
-      posi: TE
-      cost: 2
-      year: 3
-    - name: Tarik Cohen
-      posi: RB
-      cost: 1
-      year: 1
-      drop: true
+  - name: Russell Wilson
+    posi: QB
+    cost: 14
+    year: 1
+    drop: false
+    owner: Adam
+  - name: Justin Herbert
+    posi: QB
+    cost: 1
+    year: 4
+    drop: false
+    owner: Adam
+  - name: Aaron Jones
+    posi: RB
+    cost: 19
+    year: 2
+    drop: false
+    owner: Adam
+  - name: Kareem Hunt
+    posi: RB
+    cost: 14
+    year: 1
+    drop: false
+    owner: Adam
+  - name: Zack Moss
+    posi: RB
+    cost: 6
+    year: 3
+    drop: false
+    owner: Adam
+  - name: Joshua Kelley
+    posi: RB
+    cost: 5
+    year: 3
+    drop: false
+    owner: Adam
+  - name: Austin Ekeler
+    posi: RB
+    cost: 5
+    year: 1
+    drop: false
+    owner: Adam
+  - name: Tyler Lockett
+    posi: WR
+    cost: 10
+    year: 1
+    drop: false
+    owner: Adam
+  - name: Keenan Allen
+    posi: WR
+    cost: 7
+    year: 2
+    drop: false
+    owner: Adam
+  - name: Robby Anderson
+    posi: WR
+    cost: 5
+    year: 2
+    drop: false
+    owner: Adam
+  - name: Will Fuller V
+    posi: WR
+    cost: 4
+    year: 1
+    drop: false
+    owner: Adam
+  - name: Tyler Higbee
+    posi: TE
+    cost: 2
+    year: 2
+    drop: false
+    owner: Adam
