@@ -502,6 +502,12 @@
     year: 1
     drop: false
     owner: Alex
+  - name: Christian McCaffrey
+    posi: RB
+    cost: 36
+    year: 1
+    drop: false
+    owner: Alex
   - name: Jonathan Taylor
     posi: RB
     cost: 16
