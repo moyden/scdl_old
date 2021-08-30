@@ -3,7 +3,7 @@
   owner: Joseph Moyden
   trophies:
   - 2019
-  cap: 205
+  cap: 200
   roster:
   - name: Melvin Gordon
     posi: RB
@@ -80,7 +80,7 @@
 - name: Dillon Panthers
   id: dillon-panthers
   owner: James Spayne
-  cap: 190
+  cap: 200
   roster:
   - name: Patrick Mahomes
     posi: QB
@@ -258,7 +258,7 @@
 - name: Jamaal About That Base
   id: jamaal-about-that-base
   owner: Will Capes
-  cap: 183
+  cap: 195
   roster:
   - name: Rashaad Penny
     posi: RB
@@ -338,7 +338,7 @@
   trophies:
   - 2015
   - 2017
-  cap: 197
+  cap: 200
   roster:
   - name: DeShaun Watson
     posi: QB
@@ -397,7 +397,7 @@
 - name: Lower Clapton Lizards
   id: lower-clapton-lizards
   owner: Dominic Noble
-  cap: 225
+  cap: 205
   roster:
   - name: Tua Tagovailoa
     posi: QB
