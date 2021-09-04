@@ -314,6 +314,12 @@
     year: 3
     drop: false
     owner: Will
+  - name: Darren Waller
+    posi: TE
+    cost: 15
+    year: 1
+    drop: false
+    owner: Will
   - name: Darwin Thompson
     posi: RB
     cost: 4
@@ -502,12 +508,6 @@
     year: 1
     drop: false
     owner: Alex
-  - name: Christian McCaffrey
-    posi: RB
-    cost: 36
-    year: 1
-    drop: false
-    owner: Alex
   - name: Jonathan Taylor
     posi: RB
     cost: 16
@@ -574,6 +574,12 @@
     posi: QB
     cost: 1
     year: 4
+    drop: false
+    owner: Adam
+  - name: Dalvin Cook
+    posi: RB
+    cost: 36
+    year: 1
     drop: false
     owner: Adam
   - name: Aaron Jones
